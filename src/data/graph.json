@@ -374,15 +374,15 @@
     },
     {
       "id": "竹東林場",
-      "group": "地點",
+      "group": "行政",
       "sourceSheet": "link_人森事上",
       "sourceRow": 30,
-      "info": "唐振緒草案中林產管理局直轄的5處林場之一，包含竹東事業區    ",
+      "info": "戰後1947年由行政院林產管理局將植松木材店與臺拓出張所整併改組成立的官營林業經營單位。",
       "start_year": 1947,
       "end_year": null,
       "lon": null,
       "lat": null,
-      "col": "#2A9D8F"
+      "col": "#CCCCCC"
     },
     {
       "id": "林務局工會",
@@ -593,8 +593,8 @@
       "group": "地點",
       "sourceSheet": "link_人森事上",
       "sourceRow": 46,
-      "info": "明治時期三溪沿岸水災受災區域之一、清末日治樟腦特許與伐木拓墾的重要沿岸據點 。   ",
-      "start_year": 1897,
+      "info": "輕便鐵道與運材軌道路線所延伸抵達的地點之一。",
+      "start_year": null,
       "end_year": null,
       "lon": null,
       "lat": null,
@@ -1349,7 +1349,7 @@
       "group": "核心人物",
       "sourceSheet": "link_人森事上",
       "sourceRow": 105,
-      "info": "曾任造林監工，范來福摯友。",
+      "info": "竹東林業前輩與專家，擁有淵博林業知識並多次陪同作者進行林業遺址調查 。     ",
       "start_year": null,
       "end_year": null,
       "lon": null,
@@ -1370,15 +1370,15 @@
     },
     {
       "id": "植松材木店",
-      "group": "組織/社群",
+      "group": "民間業者",
       "sourceSheet": "link_人森事上",
       "sourceRow": 106,
-      "info": "日治時期大型木材業者",
-      "start_year": null,
-      "end_year": 1945,
+      "info": "日本平戶吉藏經營之民營林業巨頭，1940年成立竹東支店，為海軍造船之指定供料工廠。",
+      "start_year": 1940,
+      "end_year": null,
       "lon": null,
       "lat": null,
-      "col": "#4CC9F0"
+      "col": "#F4A261"
     },
     {
       "id": "觀霧森林遊樂區",
@@ -1406,15 +1406,15 @@
     },
     {
       "id": "大川敬藏",
-      "group": "親屬",
+      "group": "核心人物",
       "sourceSheet": "link_人森事上",
       "sourceRow": 109,
-      "info": "日治林業後代",
-      "start_year": null,
+      "info": "平戶吉藏的外孫，為本研究提供了未發表的家族著作、獨家歷史解讀與背景補充 。     ",
+      "start_year": 2012,
       "end_year": null,
       "lon": null,
       "lat": null,
-      "col": "#FF8E8E"
+      "col": "#E63946"
     },
     {
       "id": "索道運輸",
@@ -1445,11 +1445,11 @@
       "group": "地點",
       "sourceSheet": "link_人森事上",
       "sourceRow": 112,
-      "info": "植松址文化空間",
-      "start_year": null,
+      "info": "位於竹東鎮東林路141號，前身為植松材木店竹東出張所辦公室，現為歷史文化資產 。     ",
+      "start_year": 2006,
       "end_year": null,
-      "lon": null,
-      "lat": null,
+      "lon": 121.086,
+      "lat": 24.739,
       "col": "#2A9D8F"
     },
     {
@@ -4793,9 +4793,9 @@
       "group": "物/技術",
       "sourceSheet": "link_戰後林業基層官僚",
       "sourceRow": 21,
-      "info": "山區運材的高空纜車系統",
-      "start_year": null,
-      "end_year": null,
+      "info": "架空索道（單軌式架空索道），植松在香杉山林區至土場間架設用以吊掛原木下山的重力工具 。     ",
+      "start_year": 1939,
+      "end_year": 1945,
       "lon": null,
       "lat": null,
       "col": "#83C5BE"
@@ -5438,15 +5438,15 @@
     },
     {
       "id": "林業試驗所",
-      "group": "組織/社群",
+      "group": "行政",
       "sourceSheet": "link_森林經營研究發展趨勢",
       "sourceRow": 3,
-      "info": "台灣森林科學長期持續的專職研究單位",
-      "start_year": 1947,
-      "end_year": null,
+      "info": "1939年中央研究所解體後，林業部改組而成的直隸總督府機關。",
+      "start_year": 1939,
+      "end_year": 1943,
       "lon": null,
       "lat": null,
-      "col": "#4CC9F0"
+      "col": "#CCCCCC"
     },
     {
       "id": "行政院農業委員會",
@@ -6449,9 +6449,9 @@
       "group": "事件",
       "sourceSheet": "link_森林經營之部落",
       "sourceRow": 7,
-      "info": "1925-1935年間政府實施的科學林業最高目標政策，區分調查並現身國有林 。   ",
+      "info": "總督府啟動的系統性森林調查與計畫，將全島山林納入法正化、永續經營。",
       "start_year": 1925,
-      "end_year": 1935,
+      "end_year": null,
       "lon": null,
       "lat": null,
       "col": "#E9C46A"
@@ -6974,15 +6974,15 @@
     },
     {
       "id": "臺灣拓殖株式會社",
-      "group": "民間業者",
+      "group": "組織/社群",
       "sourceSheet": "link_保林重於造林",
       "sourceRow": 8,
-      "info": "日治時期進行山地拓墾與林業營運之國策會社，戰後由政府接收（臺拓）    ",
-      "start_year": null,
+      "info": "簡稱「臺拓」，配合國策與南進政策之半官半民會社，1943年設竹東出張所瘋狂開採鹿場大山。",
+      "start_year": 1943,
       "end_year": 1945,
       "lon": null,
       "lat": null,
-      "col": "#F4A261"
+      "col": "#4CC9F0"
     },
     {
       "id": "阿里山林場",
@@ -7325,7 +7325,7 @@
       "group": "組織/社群",
       "sourceSheet": "link_林政林產分合不定",
       "sourceRow": 8,
-      "info": "日治時期臺灣最高學府，設有理農學部、農林專門部及政學科    ",
+      "info": "1928年創立，設有植物學講座，承接了林業部與東大的台灣植物研究系統。",
       "start_year": 1928,
       "end_year": 1945,
       "lon": null,
@@ -7469,9 +7469,9 @@
       "group": "組織/社群",
       "sourceSheet": "link_林政林產分合不定",
       "sourceRow": 27,
-      "info": "日本最高學府，梁希曾在此求學專攻林產學與森林利用    ",
-      "start_year": 1913,
-      "end_year": 1916,
+      "info": "日本近代林學研究大本營，日治初期掌握台灣植物調查與林學研究的重心。",
+      "start_year": 1895,
+      "end_year": 1919,
       "lon": null,
       "lat": null,
       "col": "#4CC9F0"
@@ -8009,9 +8009,9 @@
       "group": "行政",
       "sourceSheet": "link_近代環境治理",
       "sourceRow": 31,
-      "info": "臺灣總督府直屬的國有林經營與採伐管理機關，在林野處分中受到內務局之限制與掣肘 。   ",
-      "start_year": 1934,
-      "end_year": null,
+      "info": "臺灣總督府直轄的林務管理單位，其官營伐木事業與林野於昭和17年移交予臺拓經營 。     ",
+      "start_year": null,
+      "end_year": 1942,
       "lon": null,
       "lat": null,
       "col": "#CCCCCC"
@@ -8281,6 +8281,1554 @@
       "col": "#CCCCCC"
     },
     {
+      "id": "平戶吉藏",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 2,
+      "info": "日本民間資本家，創辦並經營民營林業巨頭「植松木材店」，後於竹東設立支店。",
+      "start_year": 1940,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "曾寶貞",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 3,
+      "info": "本篇論文的研究生與作者，透過日產移交資料與田野口述探討竹東林業史 。     ",
+      "start_year": 2017,
+      "end_year": 2017,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "連瑞枝博士",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 3,
+      "info": "國立交通大學客家社會與文化學程教授，本篇論文的指導教授 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "奧田材木店",
+      "group": "民間業者",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 4,
+      "info": "日治時期進駐竹東的四家重要日資材商之一，最早進駐並提煉香杉油 。     ",
+      "start_year": 1938,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "吉田三三郎",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 5,
+      "info": "歷任竹東街長、新竹林產興業社長，後創立吉田材木店，與植松會社關係密切 。     ",
+      "start_year": 1934,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "吉田材木店",
+      "group": "民間業者",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 5,
+      "info": "由前竹東街長吉田三三郎轉行開設的日資材商，承攬拉號社等地的伐木造材 。     ",
+      "start_year": 1941,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "臺灣拓殖株式會社竹東出張所",
+      "group": "行政",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 6,
+      "info": "國策會社臺灣拓殖株式會社設於竹東的管理單位，主要開發鹿場大山資源 。     ",
+      "start_year": 1943,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "鹿場大山",
+      "group": "地點",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 6,
+      "info": "位於五峰鄉之高山原始密林，日治末期戰時體制下被強行砍伐珍貴檜木物資。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "植松材木店竹東支店",
+      "group": "民間業者",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 7,
+      "info": "竹東當地規模最大、設施最完善的日資民營材商，後升格為支店並被指定為海軍供料指定工場 。     ",
+      "start_year": 1940,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "山田直榮",
+      "group": "官員",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 8,
+      "info": "植松材木店竹東支店長，配有專屬座車，享有尉級軍官待遇，負責支店實際營運 。     ",
+      "start_year": 1940,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "蘇明亮",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 9,
+      "info": "出身竹東蘇家（22世），任職於臺拓竹東出張所，是所有臺籍職員中薪俸最高且受重用者 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "蘇慶土",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 10,
+      "info": "竹東蘇家重要大戶（21世），經營米穀砂糖，並將雞油林、荳子埔多處土地租予臺拓 。   ",
+      "start_year": 1898,
+      "end_year": 1961,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "奧田廣吉",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 12,
+      "info": "奧田材木店負責人，最早進入竹東地區的日資材商，獲得石加鹿倒木處理許可 。     ",
+      "start_year": 1938,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "彭清政",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 13,
+      "info": "彭氏家族成員，與彭錦濤（彭錦球）共同推動「竹東軌道組合」及多項地方公共建設。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "新竹林產興業株式會社",
+      "group": "組織/社群",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 13,
+      "info": "隸屬臺拓旗下的統制會社，於竹東成立，統籌新竹州下木材之增產、統制與承包 。     ",
+      "start_year": 1940,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "宋燕謀",
+      "group": "親屬",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 14,
+      "info": "宋燕貽之小弟，曾任長春醫院藥局會計，後轉農經營茶葉工廠（臺灣製茶株式會社社長）與庄協議員。",
+      "start_year": 1932,
+      "end_year": 1959,
+      "lon": null,
+      "lat": null,
+      "col": "#FF8E8E"
+    },
+    {
+      "id": "姜阿新",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 15,
+      "info": "北埔知名茶商與林業實業家，1930年代從造林展開事業，曾參股新竹林產興業 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "劉通略",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 16,
+      "info": "茂興木行及製材所負責人，來自嘉義，與植松支店長山田直榮簽訂香杉下腳料買賣長期契約 。     ",
+      "start_year": 1942,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "茂興木行及製材所",
+      "group": "自動增加",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 16,
+      "info": "(自動生成的關聯節點)",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#777777"
+    },
+    {
+      "id": "丁老吻",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 18,
+      "info": "清乾隆時期的竹塹社通事，與土目什班共同管理下員山至頭重埔等沿山一帶埔地 。     ",
+      "start_year": 1765,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "什班",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 18,
+      "info": "清乾隆時期的竹塹社土目，與通事丁老吻共同經理頭重埔、員山一帶埔地 。     ",
+      "start_year": 1765,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "彭乾和",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 19,
+      "info": "彭開耀之四房後裔，1806年移居樹杞林，與五房彭乾順共同加入金惠成墾號拓墾。",
+      "start_year": 1806,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "金惠成",
+      "group": "組織/社群",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 19,
+      "info": "由彭乾和、彭乾順兄弟於1806年組織之墾號，進入樹杞林地區進行大規模墾殖。",
+      "start_year": 1806,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "姜秀鑾",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 20,
+      "info": "清道光年間九芎林庄總理，準備開闢南勢山四重埔，其介入使拓墾事業產生轉機 。     ",
+      "start_year": 1833,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "金廣福",
+      "group": "組織/社群",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 20,
+      "info": "北埔姜家主導之隘墾組織，與竹東彭家金惠成墾號、黃鼎三等密切往來，共同拓墾近山土地。",
+      "start_year": 1834,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "林秋華",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 21,
+      "info": "清道光年間六家仕紳，向竹塹社屯番業主取得員山南重埔山林埔地一帶開墾權 。     ",
+      "start_year": 1833,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "員山庄",
+      "group": "地點",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 21,
+      "info": "竹東地區漢人最早開墾的沿山庄頭，約始於清乾隆中葉 。     ",
+      "start_year": 1769,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "劉銘傳",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 22,
+      "info": "福建臺灣巡撫，推行「開山撫番」政策，設置腦務總局，並多次親自出兵征討泰雅族 。     ",
+      "start_year": 1886,
+      "end_year": 1891,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "腦務總局",
+      "group": "行政",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 22,
+      "info": "光緒12年劉銘傳將樟腦經營權收歸官辦國有後設置的中央專管機關 。   ",
+      "start_year": 1887,
+      "end_year": 1890,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "林朝棟",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 23,
+      "info": "清末統領「棟軍」之名將，在劉銘傳撫番過程中扮演關鍵角色，曾督軍征討五指山番 。     ",
+      "start_year": 1886,
+      "end_year": 1891,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "泰雅族",
+      "group": "組織/社群",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 23,
+      "info": "居住於頭前溪中上游、大嵙崁、李棟山等山地的主要原住民族群，長期與清軍、日警對抗 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "朱打馬",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 24,
+      "info": "清光緒年間的原住民總土目，曾因大南坑、柏色林一帶的業權與金廣福墾戶發生爭端 。   ",
+      "start_year": 1882,
+      "end_year": 1886,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "樺山資紀",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 25,
+      "info": "日治時期第一任臺灣總督，主張對原住民實施綏撫為主、經營蕃地以利拓殖的方針 。     ",
+      "start_year": 1895,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "佐久間左馬太",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 26,
+      "info": "臺灣總督，任內推行「五年理蕃計畫」，促使隘勇線向內山挺進並解除山地威脅。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "五年理蕃計畫",
+      "group": "事件",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 26,
+      "info": "佐久間左馬太總督推行的政策，解除山地威脅，使林業得以向高山深處挺進。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "飯島幹太郎",
+      "group": "官員",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 27,
+      "info": "臺灣總督府技手，撰有調查要領報告，詳細記載十八兒社的蕃情與周邊樟林情況 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "康何經",
+      "group": "官員",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 28,
+      "info": "戰後臺灣省行政長官公署指派的監理員，負責植松木行的財產接收作業 。   ",
+      "start_year": 1945,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "植松木行",
+      "group": "自動增加",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 28,
+      "info": "(自動生成的關聯節點)",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#777777"
+    },
+    {
+      "id": "樹杞林街",
+      "group": "地點",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 29,
+      "info": "竹東地區舊時的街廓，為清代與日治初期樟腦、茶葉等山產的重要集散地。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "輕便車",
+      "group": "物/技術",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 29,
+      "info": "又稱台車，日治大正年間達最高峰，靠人力在特定斜坡窄軌軌道上推動運送原木的交通工具 。   ",
+      "start_year": null,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "貯木池",
+      "group": "物/技術",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 30,
+      "info": "植松等大材商在竹東工廠周邊設置用以浸泡、保護「珍貴五木」避免乾裂變質的蓄水池 。     ",
+      "start_year": 1940,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "香杉",
+      "group": "物/技術",
+      "sourceSheet": "link_殖民時期的竹東林業",
+      "sourceRow": 31,
+      "info": "尖石鄉錦屏村密林出產之高抗水耐腐性樹種，戰時大量採伐以填補造船鋼鐵不足。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "竹東地區",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 2,
+      "info": "舊稱樹杞林，日治初期林業與礦工業發展起點，因盛產樟腦與天然氣而促成聚落興盛。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "樟腦",
+      "group": "物/技術",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 3,
+      "info": "清代至日治初期淺山丘陵開採的高經濟價值林產，為重要財政與貿易來源。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "臺灣總督府",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 4,
+      "info": "日本殖民統治臺灣的最高權力機關，主導全島林業、市街改正與林野調查政策。",
+      "start_year": 1895,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "伊能嘉矩",
+      "group": "核心人物",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 5,
+      "info": "日本人類學與民俗學家，其踏查日記記錄了五指山區的腦灶與腦寮分布。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "五指山區",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 5,
+      "info": "竹東地區的山區，伊能嘉矩曾在此踏查並記錄腦灶與腦寮分布。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "腦灶",
+      "group": "物/技術",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 6,
+      "info": "清代與日治初期用於熬製樟腦的傳統榨取式林業生產設備。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "腦寮",
+      "group": "自動增加",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 7,
+      "info": "(自動生成的關聯節點)",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#777777"
+    },
+    {
+      "id": "林野調查",
+      "group": "事件",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 8,
+      "info": "總督府為徹底掌握林野利用狀況、廢除舊有利權而發動的大規模土地清理工程。",
+      "start_year": 1910,
+      "end_year": 1914,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "官有林野整理事業",
+      "group": "事件",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 9,
+      "info": "總督府配合林野調查所實施的法制化工程，確立無主地國有原則。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "官有林野",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 10,
+      "info": "經林野調查與官有林野整理事業清查後，正式現身並收歸國有的廣大森林土地。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "泰雅族人",
+      "group": "組織/社群",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 11,
+      "info": "新竹內山的原住民社群，與漢人、殖民政府間存在土地拓墾與理蕃體制互動。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "隘勇線",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 13,
+      "info": "殖民政府防範與圍堵原住民的武裝防線，理蕃政策下不斷向內山挺進。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "三大官營林場",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 14,
+      "info": "總督府成立之阿里山、八仙山、太平山林場，確立全島官營伐木事業。",
+      "start_year": 1910,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "新竹拓殖軌道株式會社",
+      "group": "自動增加",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 15,
+      "info": "(自動生成的關聯節點)",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#777777"
+    },
+    {
+      "id": "輕便鐵道",
+      "group": "物/技術",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 15,
+      "info": "地方仕紳與會社架設的交通工具，用於系統化運輸山地林業資材與載客。",
+      "start_year": 1908,
+      "end_year": 1938,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "上公館",
+      "group": "自動增加",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 17,
+      "info": "(自動生成的關聯節點)",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#777777"
+    },
+    {
+      "id": "十八兒",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 18,
+      "info": "今五峰鄉，輕便鐵道由上公館逐步延伸進入的高山林業區域。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "上坪",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 19,
+      "info": "輕便鐵道路線延伸抵達的高山邊區之一，亦為上坪溪上游林業要地。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "阿里山作業所",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 20,
+      "info": "總督府自1910年起設立的林業管理單位，利用森林鐵道大規模運出檜木。",
+      "start_year": 1910,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "臺灣森林令",
+      "group": "事件",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 22,
+      "info": "總督府於1919年頒布的法令，正式將全島林業納入近代法治軌道。",
+      "start_year": 1919,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "扁柏",
+      "group": "物/技術",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 24,
+      "info": "台灣固有貴重針葉樹，營林所砍伐之官行材大宗，主要用於近代建築用材。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "紅檜",
+      "group": "物/技術",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 25,
+      "info": "台灣固有貴重針葉樹，官行材之核心，台灣人常將其作為建材、家具與棺材用材。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "南河庄",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 31,
+      "info": "竹東周邊的村落，常民在戰爭後期因全面性濫伐而大量投入林業勞動。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "彭殿華",
+      "group": "核心人物",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 32,
+      "info": "彭開耀之五房後裔，出於嫡流，1897年獲授佩紳章，為日治初期掌握惠昌宮一帶大片土地之領袖。",
+      "start_year": 1897,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "惠昌宮",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 32,
+      "info": "舊稱國王宮，奉祀三山國王，1810年由廣東移民建茅屋奉祀，為竹東聚落最早的發展核心。",
+      "start_year": 1810,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "撫墾署",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 33,
+      "info": "1905年總督府為開發五指山樟腦事業而設立的官署，負責辦理原住民撫育與局勢安撫。",
+      "start_year": 1896,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "彭玉理",
+      "group": "官員",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 34,
+      "info": "建築師，為地方仕紳後代，曾設計北埔姜阿新洋樓，並於1970年設計改建竹東惠昌宮。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "樹杞林信用組合",
+      "group": "組織/社群",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 35,
+      "info": "1918年由宋燕貽等商工仕紳創設之金融合作組織，後改組為竹東街農業會。",
+      "start_year": 1918,
+      "end_year": 1933,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "宋燕貽",
+      "group": "核心人物",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 35,
+      "info": "1906年畢業於總督府醫學校，1909年設立長春醫院，創設樹杞林信用組合並任組合長，1921年佩紳章。",
+      "start_year": 1909,
+      "end_year": 1946,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "長春醫院",
+      "group": "民間業者",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 36,
+      "info": "宋燕貽於1909年創設於長春路之近代醫院，為日治中期十多年間竹東街區唯一一家醫院。",
+      "start_year": 1909,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "宋燕翔",
+      "group": "親屬",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 38,
+      "info": "宋燕貽之大弟，長春醫院醫生，負責內科與小兒科，後於一次出診時不幸溺水殉職。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#FF8E8E"
+    },
+    {
+      "id": "蘇廷清",
+      "group": "官員",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 40,
+      "info": "經營煤礦業致富，曾任竹東郡役所雇員、庄協議會員、信用組合監事。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "展東炭礦公司",
+      "group": "民間業者",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 40,
+      "info": "蘇廷清曾任職並從事石炭（煤礦）挖掘之民間採礦會社。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "樹杞林支廳",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 41,
+      "info": "1901年廢縣置廳後成立的二級行政管理單位，管轄樹杞林街等區域。",
+      "start_year": 1901,
+      "end_year": 1920,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "樹杞林區長役場",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 42,
+      "info": "1901年地方官制改制後設立之基層行政辦公處所，後稱庄役場。",
+      "start_year": 1901,
+      "end_year": 1920,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "長春路",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 42,
+      "info": "竹東市街兩條縱向主幹道之一，日治初期通往竹塹之舊隘道與輕便軌道路線。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "樹杞林公學校",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 43,
+      "info": "1899年創設之臺人初等教育機構，現今為竹東國小。",
+      "start_year": 1899,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "吳天祐紀念碑",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 44,
+      "info": "位於竹東國小操場（原吳家捐贈土地），1933年興建，現登錄為歷史建築。",
+      "start_year": 1933,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "樹杞林下水溝改修計畫",
+      "group": "事件",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 45,
+      "info": "1917年官方在竹東實施地下水道改修與道路截彎取直工程，現出格狀街廓雛形。",
+      "start_year": 1917,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "古市巷",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 45,
+      "info": "與信仰中心惠昌宮相接之最早期隘道商業街，原寬僅兩米。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "竹東郡役所",
+      "group": "行政",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 46,
+      "info": "竹東郡的最高行政官署，1920年官制大改革後設置，大地震後進行擴建。",
+      "start_year": 1920,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "大同路",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 46,
+      "info": "郡役所前方之橫向核心軸線道路，日治1935年定為「第八號路線」，拓寬以強化官方權力意向。",
+      "start_year": 1935,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "屯子腳大地震",
+      "group": "事件",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 48,
+      "info": "1935年4月21日引發劇烈災情的自然災害，竹東損害嚴重，催生正式市區改正。",
+      "start_year": 1935,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "市區改正計畫",
+      "group": "自動增加",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 48,
+      "info": "(自動生成的關聯節點)",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#777777"
+    },
+    {
+      "id": "臺灣礦業株式會社",
+      "group": "民間業者",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 49,
+      "info": "掌控竹東油田開採權之大型日本資本會社，下設竹東油業所，戰時資助竹東街復興。",
+      "start_year": 1933,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "竹東油業所",
+      "group": "組織/社群",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 49,
+      "info": "位於下公館，包含採取所、碳煙工廠、社宅、俱樂部、神社之龐大重工業複合體。",
+      "start_year": 1933,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "榮樂館",
+      "group": "民間業者",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 50,
+      "info": "1938年由地方仕紳集資於頭前溪附近興建之竹東第一座近代劇場，具備Art Deco風格。",
+      "start_year": 1938,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "臺灣都市計畫令",
+      "group": "事件",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 50,
+      "info": "1936年8月公布實施之現代都市規劃根本大法，引進全面性土地重劃制度。",
+      "start_year": 1936,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "圓形廣場",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 51,
+      "info": "1938年都市計畫於1號與11號道路交會處劃設之直徑70公尺圓環，引導行政中心新區發展。",
+      "start_year": 1938,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "蕭如松園區",
+      "group": "地點",
+      "sourceSheet": "link_竹東市街的構成與變化",
+      "sourceRow": 52,
+      "info": "現今之文化園區，日治時期為竹東小學校校長宿舍、公宿與街營住宅所在地。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "賀田直治",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 2,
+      "info": "明治時期來台之重要林業技術官僚，曾任林業試驗場首任場長，出版《臺灣林業史》。",
+      "start_year": 1906,
+      "end_year": 1917,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "台灣總督府殖產局林業試驗場",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 2,
+      "info": "1911年由臺北苗圃改制而成，為中央研究所林業部的直接前身。",
+      "start_year": 1911,
+      "end_year": 1921,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "臺灣林業史",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 3,
+      "info": "賀田直治於1917年以總督府殖產局名義出版之近代首部台灣林業史專著。",
+      "start_year": 1917,
+      "end_year": 1917,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "金平亮三",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 4,
+      "info": "林業試驗場最後一任場長及林業部首任部長，台灣有用樹木與木材解剖學研究先驅。",
+      "start_year": 1918,
+      "end_year": 1928,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "台灣總督府中央研究所林業部",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 5,
+      "info": "1921年合併林業試驗場成立，為日治時期台灣林學學術事業最統整齊備的階段。",
+      "start_year": 1921,
+      "end_year": 1939,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "臺灣有用樹木誌",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 6,
+      "info": "金平亮三於1918年撰寫完成之專著，系統性整理台灣跨熱帶與副熱帶之林木資源。",
+      "start_year": 1918,
+      "end_year": 1918,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "佐佐木舜一",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 7,
+      "info": "台灣總督府中央研究所林業部研究者，長期投入植物調查，撰有《新高山彙森林植物帶論》。",
+      "start_year": 1909,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "新高山彙",
+      "group": "地點",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 8,
+      "info": "包括新高山、鳳凰山、阿里山、鹿林山、東埔山等山域，為佐佐木垂直植物帶調查區域。",
+      "start_year": 1910,
+      "end_year": 1922,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "永山規矩雄",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 9,
+      "info": "林業部研究者，專精於木材試驗利用研究，撰有《臺灣木竹材之利用(本島人之部)》。",
+      "start_year": 1924,
+      "end_year": 1931,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "臺灣に於ける木竹材の利用(本島人之部)",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 10,
+      "info": "永山規矩雄於1927年發表之中央研究所林業部報告第五號，詳述漢人木材利用。",
+      "start_year": 1927,
+      "end_year": 1927,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "山本由松",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 11,
+      "info": "早田文藏門生，撰有連續5輯的《續臺灣植物圖譜》，後轉任臺北帝國大學助教授。",
+      "start_year": 1925,
+      "end_year": 1932,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "續臺灣植物圖譜",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 11,
+      "info": "山本由松接續早田文藏事業，以拉丁文撰寫發表之5輯台灣植物補遺圖譜。",
+      "start_year": 1925,
+      "end_year": 1932,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "早田文藏",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 12,
+      "info": "東京帝大博士，1905年起參與官方植物調查，費時10年編纂完成經典《臺灣植物圖譜》。",
+      "start_year": 1905,
+      "end_year": 1921,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "臺灣植物圖譜",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 12,
+      "info": "早田文藏花費10年編纂之10卷拉丁文經典，奠定台灣近代植物調查之基礎。",
+      "start_year": 1911,
+      "end_year": 1921,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "川上瀧彌",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 13,
+      "info": "1905年起官方植物調查的主持技師，對台灣早期近代植物學調查具奠基貢獻。",
+      "start_year": 1905,
+      "end_year": 1915,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "官方植物調查事業",
+      "group": "事件",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 13,
+      "info": "1905年由總督府主導成立，象徵官方有組織性自然界資源普查的開始。",
+      "start_year": 1905,
+      "end_year": 1919,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "關文彥",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 14,
+      "info": "1930年代中期接任中央研究所林業部長，提出非常時期的林業政策與架空索道搬運研究。",
+      "start_year": 1933,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "昇益川",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 15,
+      "info": "林業部研究者，於恆春支場主導木麻黃造林試驗、香水樹及樟樹生長量比較試驗。",
+      "start_year": 1923,
+      "end_year": 1924,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "木麻黃造林試驗",
+      "group": "事件",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 15,
+      "info": "由恆春殖育場至林業部持續進行的外來防風砂樹種引進、繁育與馴化試驗。",
+      "start_year": 1902,
+      "end_year": 1924,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "吉良九州男",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 16,
+      "info": "林業部研究者，於戰爭期投入奎寧造林與種子貯藏方法試驗。",
+      "start_year": 1935,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "臺灣總督府中央研究所林業部彙報",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 16,
+      "info": "林業部出版刊物，共發表7號，輯錄較簡易之試驗調查成績或階段性利益成果。",
+      "start_year": 1923,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "飯塚肇",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 17,
+      "info": "林業部研究者，撰有《奎寧造林研究(第一回報告)》。",
+      "start_year": 1937,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "臺灣總督府中央研究所林業部報告",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 17,
+      "info": "林業部核心出版刊物，1922至1937年間共發表22號，登載重大試驗研究。",
+      "start_year": 1922,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "謝阿才",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 18,
+      "info": "林業部時期研究人員，長期投入植物調查，編寫《太魯閣沿岸植物目錄（第一報）》。",
+      "start_year": 1936,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "松浦作治郎",
+      "group": "核心人物",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 19,
+      "info": "林業部研究者，主導安南漆栽培試驗。",
+      "start_year": 1931,
+      "end_year": 1934,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "蓮華池試驗地",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 20,
+      "info": "中央研究所林業部下轄試驗地，位於台中州新高郡魚池庄，面積430甲。",
+      "start_year": 1921,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "中埔林業試驗支所",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 21,
+      "info": "林業部下轄支所，本部及嘉義試驗地總面積達1,674.48甲。",
+      "start_year": 1921,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "恆春林業試驗支所",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 22,
+      "info": "林業部下轄支所，承襲原熱帶植物殖育場，位於高雄州恆春郡，面積593.6甲。",
+      "start_year": 1921,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "臺東藥用植物試驗地",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 23,
+      "info": "林業部下轄試驗地，位於台東廳大武支廳「蕃地」，面積740甲。",
+      "start_year": 1921,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "台灣總督府",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 24,
+      "info": "日本在台最高殖民統治機關，發布法律、派任官僚並主導各項林業實業政策。",
+      "start_year": 1895,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "台灣總督府中央研究所",
+      "group": "行政",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 24,
+      "info": "1921年成立的台灣最高綜合性研究機構，統合農業、林業、工業與衛生研究。",
+      "start_year": 1921,
+      "end_year": 1939,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "漢人",
+      "group": "組織/社群",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 28,
+      "info": "佔台灣絕大多數的人口社群，其生活習慣、舊慣與木竹材利用為永山規矩雄的研究核心。",
+      "start_year": 1924,
+      "end_year": 1927,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "福州杉",
+      "group": "物/技術",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 28,
+      "info": "從中國對岸輸入的針葉木，為台灣漢人長久以來形成之民族慣用建築與棺材用材。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "台灣星製藥株式會社",
+      "group": "民間業者",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 29,
+      "info": "民間製藥企業，在高雄州與台東廳山林進行大規模的奎寧（金雞納樹）造林。",
+      "start_year": 1912,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "奎寧造林試驗",
+      "group": "事件",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 29,
+      "info": "林業試驗系統因應戰時軍需藥品自給政策，在台推動的金雞納樹移植與造林研究。",
+      "start_year": 1912,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "烏來",
+      "group": "地點",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 30,
+      "info": "早期林業技術家（如金平亮三）入山採集與認識台灣原生樹種的指標性野外地點。",
+      "start_year": 1909,
+      "end_year": 1933,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "北部林木誌",
+      "group": "資料來源",
+      "sourceSheet": "link_殖民與植林",
+      "sourceRow": 30,
+      "info": "中井宗三（加藤宗三）早期所著之書籍，為當時林業技術家認識台灣樹名之指針。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
       "id": "廖福麟",
       "group": "行政官員",
       "info": "新竹林管處處長",
@@ -8449,26 +9997,6 @@
       "lon": null,
       "lat": null,
       "col": "#FF8E8E"
-    },
-    {
-      "id": "曾寶貞",
-      "group": "親屬",
-      "info": "林業館翻譯人員",
-      "start_year": null,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#FF8E8E"
-    },
-    {
-      "id": "上坪",
-      "group": "地點",
-      "info": "林務管理分站",
-      "start_year": null,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#2A9D8F"
     },
     {
       "id": "三義",
@@ -8654,16 +10182,6 @@
       "id": "竹東車站",
       "group": "地點",
       "info": "林產輸出節點",
-      "start_year": null,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#2A9D8F"
-    },
-    {
-      "id": "貯木池",
-      "group": "地點",
-      "info": "原木存放設施",
       "start_year": null,
       "end_year": null,
       "lon": null,
@@ -8901,16 +10419,6 @@
       "col": "#2A9D8F"
     },
     {
-      "id": "鹿場大山",
-      "group": "地點",
-      "info": "組織/社群",
-      "start_year": 1947,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#2A9D8F"
-    },
-    {
       "id": "五指山",
       "group": "地點",
       "info": "明治30年10月間爆發嚴重水災、清末劉銘傳曾大興腦業的臺灣新竹淺山地理區域 。   ",
@@ -9081,36 +10589,6 @@
       "col": "#83C5BE"
     },
     {
-      "id": "紅檜",
-      "group": "物/技術",
-      "info": "具高經濟價值的本土珍貴樹種研究",
-      "start_year": null,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#83C5BE"
-    },
-    {
-      "id": "扁柏",
-      "group": "物/技術",
-      "info": "司馬庫斯森林資源中記載的針葉樹種之一。",
-      "start_year": null,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#83C5BE"
-    },
-    {
-      "id": "香杉",
-      "group": "物/技術",
-      "info": "貴重木材",
-      "start_year": null,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#83C5BE"
-    },
-    {
       "id": "泡桐",
       "group": "物/技術",
       "info": "當地曾因林業試驗經營而種植但因價格不佳而棄置的樹種。",
@@ -9134,16 +10612,6 @@
       "id": "桂竹",
       "group": "物/技術",
       "info": "桃竹苗優勢竹種",
-      "start_year": null,
-      "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#83C5BE"
-    },
-    {
-      "id": "樟腦",
-      "group": "物/技術",
-      "info": "早期山林產物",
       "start_year": null,
       "end_year": null,
       "lon": null,
@@ -9373,7 +10841,7 @@
     {
       "id": "肖楠",
       "group": "物/技術",
-      "info": "森林生長模式研究中的常見對象",
+      "info": "台灣貴重針葉樹，九大演習林與民間皆重點栽培、利用之台灣有用樹木。",
       "start_year": null,
       "end_year": null,
       "lon": null,
@@ -9383,7 +10851,7 @@
     {
       "id": "烏心石",
       "group": "物/技術",
-      "info": "闊葉一級木",
+      "info": "台灣有用闊葉樹（民行材）大宗，廣泛用於台灣漢人的傳統器具與家具製造。",
       "start_year": null,
       "end_year": null,
       "lon": null,
@@ -9423,9 +10891,9 @@
     {
       "id": "相思樹",
       "group": "物/技術",
-      "info": "臺灣淺山常見的造林與經濟樹種，在大正與昭和初期成為資本家與林農制度套利、合法化田園的主要相思樹純林選擇 。   ",
-      "start_year": 1916,
-      "end_year": 1929,
+      "info": "台灣固有之優良燃料與製碳樹種，其種子發芽與播種造林亦為林業部試驗對象。",
+      "start_year": null,
+      "end_year": null,
       "lon": null,
       "lat": null,
       "col": "#83C5BE"
@@ -10203,9 +11671,9 @@
     {
       "id": "樟樹",
       "group": "物/技術",
-      "info": "臺灣本土特有樹種，為清末至日治製腦產物核心，清末劉銘傳與日治初期造林皆以其為核心 。   ",
-      "start_year": 1886,
-      "end_year": 1935,
+      "info": "台灣固有特產造林樹種，具極高經濟價值，日治初期即由林務系統大量栽培。",
+      "start_year": null,
+      "end_year": null,
       "lon": null,
       "lat": null,
       "col": "#83C5BE"
@@ -10783,7 +12251,7 @@
     {
       "id": "緣故關係",
       "group": "同儕/人際",
-      "info": "日治末期以來本地請負者（承包商）因投入資本建設林業設施，而獲得國有林特許處分的就地合法特權關係。",
+      "info": "總督府林野調查中，考量統治穩定而承認人民對已墾林野具備長期占墾利用事實的產權技術 。     ",
       "start_year": null,
       "end_year": null,
       "lon": null,
@@ -11256,16 +12724,6 @@
       "info": "徐兆莘來臺初期擔任技術課長之地方農林單位    ",
       "start_year": 1947,
       "end_year": 1948,
-      "lon": null,
-      "lat": null,
-      "col": "#CCCCCC"
-    },
-    {
-      "id": "臺灣總督府",
-      "group": "行政",
-      "info": "日本殖民臺灣時期的最高統治機關，建立官營林場與國有林野制度    ",
-      "start_year": null,
-      "end_year": 1945,
       "lon": null,
       "lat": null,
       "col": "#CCCCCC"
@@ -12001,31 +13459,11 @@
       "col": "#A8DABB"
     },
     {
-      "id": "劉銘傳",
-      "group": "核心人物",
-      "info": "清代太子少保福建臺灣巡撫，於光緒12-13年間在大樟樹繁茂的前山一帶大興腦業與擴大隘勇防線 。   ",
-      "start_year": 1886,
-      "end_year": 1887,
-      "lon": null,
-      "lat": null,
-      "col": "#E63946"
-    },
-    {
       "id": "有馬良橘",
       "group": "核心人物",
       "info": "明治30年10月前往臺灣五指山、內灣與馬武督一帶視察水災災情的侍從武官 。   ",
       "start_year": 1897,
       "end_year": 1897,
-      "lon": null,
-      "lat": null,
-      "col": "#E63946"
-    },
-    {
-      "id": "永山規矩雄",
-      "group": "核心人物",
-      "info": "任職總督府中央研究所林業部，在1930年代不遺餘力提倡「地方色彩」與開發闊葉樹工藝的林業官員 。   ",
-      "start_year": 1929,
-      "end_year": 1933,
       "lon": null,
       "lat": null,
       "col": "#E63946"
@@ -12291,16 +13729,6 @@
       "col": "#E9C46A"
     },
     {
-      "id": "林野調查",
-      "group": "事件",
-      "info": "大正前中期（1910-1925）殖產局在淺山地區推動之全面性財產權合理化與官民有區分界線調查 。   ",
-      "start_year": 1910,
-      "end_year": 1925,
-      "lon": null,
-      "lat": null,
-      "col": "#E9C46A"
-    },
-    {
       "id": "國有林野特別經營事業",
       "group": "事件",
       "info": "日本山林局於明治32年啟動的林政治理變革，偏離原初法正化構想並過渡為環境主體化 。   ",
@@ -12316,16 +13744,6 @@
       "info": "因總督府將南投、嘉義地方人民舊慣利用的竹林收歸官有並處分給日資企業而引發的群眾抗議事件 。   ",
       "start_year": 1909,
       "end_year": null,
-      "lon": null,
-      "lat": null,
-      "col": "#E9C46A"
-    },
-    {
-      "id": "官有林野整理事業",
-      "group": "事件",
-      "info": "起迄於大正4-14年間，仿照日本經驗將臺灣官有林野區分為要存置與不要存置林野、處分緣故關係地的政策 。   ",
-      "start_year": 1915,
-      "end_year": 1925,
       "lon": null,
       "lat": null,
       "col": "#E9C46A"
@@ -12563,9 +13981,9 @@
     {
       "id": "桐樹",
       "group": "物/技術",
-      "info": "徐謙郎等人在竹東大坪山林變更開墾案中，為應對地理課檢查而於起業方法書中增闢的經濟作物培育樹種 。   ",
-      "start_year": 1926,
-      "end_year": 1929,
+      "info": "清代至日治初期淺山丘陵開採的高經濟價值林產。",
+      "start_year": null,
+      "end_year": null,
       "lon": null,
       "lat": null,
       "col": "#83C5BE"
@@ -12599,16 +14017,6 @@
       "lon": null,
       "lat": null,
       "col": "#83C5BE"
-    },
-    {
-      "id": "隘勇線",
-      "group": "行政",
-      "info": "清末劉銘傳與日治初期總督府推進至生番交界處、設置隘勇隘丁以隔離防禦及大興腦業的武裝防線 。   ",
-      "start_year": 1886,
-      "end_year": 1920,
-      "lon": null,
-      "lat": null,
-      "col": "#CCCCCC"
     },
     {
       "id": "不要存置林野",
@@ -12699,16 +14107,6 @@
       "lon": null,
       "lat": null,
       "col": "#2A9D8F"
-    },
-    {
-      "id": "臺灣森林令",
-      "group": "資料來源",
-      "info": "大正8年以律令第10號公告、取代取締規則、成為日治臺灣「強制、干涉與現狀主義」森林行政基礎的核心法律 。   ",
-      "start_year": 1919,
-      "end_year": 1937,
-      "lon": null,
-      "lat": null,
-      "col": "#A8DABB"
     },
     {
       "id": "〈臺灣樟樹造林獎勵規則〉",
@@ -12809,6 +14207,1756 @@
       "lon": null,
       "lat": null,
       "col": "#83C5BE"
+    },
+    {
+      "id": "徐瑞珠",
+      "group": "核心人物",
+      "info": "曾任職於植松竹東支店的老員工，提供了發黃老照片與關鍵的口述歷史記憶 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "衛火土",
+      "group": "核心人物",
+      "info": "曾隨姊夫學藝的知名鋸片修銼師傅，享有高日薪，並在戰後搶救保管了植松的重要手繪文件 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "越野正一",
+      "group": "核心人物",
+      "info": "臺灣拓殖株式會社竹東出張所的負責人 。     ",
+      "start_year": 1943,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "詹義春",
+      "group": "核心人物",
+      "info": "勝義木行及製材所負責人，經營竹東第一家由在地本地人開設的木材行 。     ",
+      "start_year": 1928,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "古承鼎",
+      "group": "核心人物",
+      "info": "承鼎木行負責人，竹東本土木材商，曾持有新竹林產興業大筆股份 。     ",
+      "start_year": 1946,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "老來湘江",
+      "group": "核心人物",
+      "info": "清嘉慶年間竹塹社屯番土目，曾與閩人張光彩合墾樹杞林一帶 。     ",
+      "start_year": 1800,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "伊藤完二",
+      "group": "官員",
+      "info": "臺灣總督府遞信部長，曾於戰時親臨新竹州香杉山現場視察激勵伐木 。     ",
+      "start_year": 1943,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "石井忠夫",
+      "group": "官員",
+      "info": "日治時期竹東街長，曾代表官方將雞油林州有地租貸予植松材木店 。     ",
+      "start_year": 1941,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "江騰昌之",
+      "group": "官員",
+      "info": "日治時期新竹州知事，曾發出命令將雞油林土地提供予植松作為貯木池與貯木場 。     ",
+      "start_year": 1943,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "山本純平",
+      "group": "官員",
+      "info": "日治後期竹東街長，曾發出土地使用承諾書提供雞油林土地予植松作為貯木池 。     ",
+      "start_year": 1944,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "國立交通大學客家文化學院",
+      "group": "組織/社群",
+      "info": "本篇學術碩士論文的出品教學與研究機構，位於新竹。",
+      "start_year": 2017,
+      "end_year": 2017,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "金協和",
+      "group": "組織/社群",
+      "info": "墾民向金惠成借隘、合股籌資成立的墾號，歷經重組後於光緒16年完成五指山區拓墾 。   ",
+      "start_year": 1882,
+      "end_year": 1890,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "廣泰成",
+      "group": "組織/社群",
+      "info": "清代設於南庄的著名民間墾隘，屬於以防番、保護樟腦開墾為目的的民間武裝自衛組織 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "賽夏族",
+      "group": "組織/社群",
+      "info": "竹東山區（樹杞林內山）之原住民社群，與泰雅族同為該近山地帶之原始居民。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "道卡斯族",
+      "group": "組織/社群",
+      "info": "清代竹塹地區的原始熟番主人（竹塹社），乾隆年間起將沿岸土地讓渡或與漢人合墾 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "臨時臺灣鐵道敷設部",
+      "group": "行政",
+      "info": "明治33年總督府成立的部門，為鋪設縱貫鐵路需要大量枕木，促成阿里山等林場開發 。   ",
+      "start_year": 1900,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "撫墾總局",
+      "group": "行政",
+      "info": "清末劉銘傳在大嵙崁（大溪）特別設置的撫番與開山招墾最高行政管理機關 。     ",
+      "start_year": 1886,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "辨務署",
+      "group": "行政",
+      "info": "明治31年廢除撫墾署後接管其業務的地方行政機關，竹東地區曾設樹杞林辨務署 。     ",
+      "start_year": 1898,
+      "end_year": 1903,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "樟腦局",
+      "group": "行政",
+      "info": "明治32年總督府實施樟腦專專賣時，於臺北、新竹、羅東等地普遍設置的專賣機關 。   ",
+      "start_year": 1899,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "竹東郡",
+      "group": "行政",
+      "info": "1920年地方官制大改革，新竹州下設置之八郡之一，取代原樹杞林支廳之管轄建制。",
+      "start_year": 1920,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "臺灣省行政長官公署農林處林務局",
+      "group": "行政",
+      "info": "戰後接收臺灣總督府各時期日產林業、國有林地及日資會社的省屬行政機關 。     ",
+      "start_year": 1945,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "雞油林地區",
+      "group": "地點",
+      "info": "位於下公館到竹東火車站靠頭前溪一帶，因吉田街長修築堤防免受水患，成為植松會社基地 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "錦屏土場遺址",
+      "group": "地點",
+      "info": "位於尖石鄉山區，當年原木透過索道運下山暫放的林業轉運集中場 。     ",
+      "start_year": null,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "油羅溪",
+      "group": "地點",
+      "info": "頭前溪重要支流，其上游流域的嘉樂、新樂、天打那為植松會社核心事業林地 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "上坪溪",
+      "group": "地點",
+      "info": "頭前溪支流，流域內的竹林、白石、鹿場大山為日治後期兩大材商運材的核心路線 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "內灣林業館",
+      "group": "地點",
+      "info": "位於橫山鄉內灣村，前身為新竹樟腦局設在內灣的製腦監督所，現為觀光展示館 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "石加祿山",
+      "group": "地點",
+      "info": "位於新竹內山（霞客羅大山），蘊藏無盡藏香杉林，由奧田與植松會社聯手出材 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "軟橋里",
+      "group": "地點",
+      "info": "位於竹東郡，昭和9年日人在該地一帶發現天然氣與石油，促成竹東能源工業興起 。   ",
+      "start_year": 1934,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "內灣線鐵路",
+      "group": "物/技術",
+      "info": "最初稱為「竹東鐵路」，昭和19年動工，為開採竹東內山煤林資源而築，戰後復工通車 。   ",
+      "start_year": 1944,
+      "end_year": 1947,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "檢印",
+      "group": "物/技術",
+      "info": "樹木的通行證（如「放」印），樹木能否砍伐與放行皆需經林務人員蓋章確認之印記 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "木馬路",
+      "group": "物/技術",
+      "info": "在內山陡峭林區開鑿，供木馬工人將原木置於木馬滑動下山的傳統土場集運技術 。     ",
+      "start_year": null,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "關刀山大地震",
+      "group": "事件",
+      "info": "昭和10年芮氏規模7.1的大地震，造成竹東郡上千間房屋倒塌與嚴重破壞，後啟動都市更新 。   ",
+      "start_year": 1935,
+      "end_year": 1935,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "官有林野整理",
+      "group": "事件",
+      "info": "將臺灣官有山地劃分為要存置、準要存置與不要存置三類，將林地產權正式法制化納入國家治理 。   ",
+      "start_year": 1915,
+      "end_year": 1925,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "李棟山事件",
+      "group": "事件",
+      "info": "發生在新竹內山泰雅族與日本軍警火砲部隊間的激烈戰爭，為北台泰雅族最後一次大規模抗日 。   ",
+      "start_year": 1910,
+      "end_year": 1913,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "樟腦專賣制度",
+      "group": "事件",
+      "info": "明治32年總督府發布專賣規則，全面控制腦砂與腦油的採製，杜絕民間私焗私售 。   ",
+      "start_year": 1899,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "霧社事件",
+      "group": "事件",
+      "info": "昭和5年爆發的重大原住民武裝流血抗日事件，震驚總督府並引發後續的部落大遷徙 。   ",
+      "start_year": 1930,
+      "end_year": 1930,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "開山撫番政策",
+      "group": "事件",
+      "info": "清光緒元年沈葆楨來台後推出的山地大改革，打破二百年封禁，積極招墾並將隘防官辦化 。     ",
+      "start_year": 1875,
+      "end_year": 1891,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "台灣森林令",
+      "group": "事件",
+      "info": "1919年發布，代表台灣山林正式納入近代殖民政府法理體制與法制化管轄。",
+      "start_year": 1919,
+      "end_year": 1919,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "相思樹皮",
+      "group": "物/技術",
+      "info": "製革工業鞣皮時提取單寧（TANNIN）的最佳栲膠植物原料，新竹州產量佔全島九成 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "木炭",
+      "group": "物/技術",
+      "info": "新竹州產量居全島首位之林產加工品，利用相思樹材燒製，品質優良且大量出口日本 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "甔草",
+      "group": "物/技術",
+      "info": "種植在山地之半野生特產林產品，繁殖力強，透過高砂協會專供日本蓮草會社 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "漆樹",
+      "group": "物/技術",
+      "info": "因近代工業興起而增產的熱門林業作物，臺灣殖漆株式會社曾在新竹州造林達600甲 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "臺灣林業施業案",
+      "group": "物/技術",
+      "info": "1925年起推動的近代永續林業科學計畫，將林地分區並嚴格規定各林班造林與伐木的輪次 。     ",
+      "start_year": 1925,
+      "end_year": 1942,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "鄉閥",
+      "group": "同儕/人際",
+      "info": "日資會社內部人才晉用的同鄉人際網絡，植松會社內部即充斥濃厚的新宮與賀田鄉土派系 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DADC"
+    },
+    {
+      "id": "番租",
+      "group": "同儕/人際",
+      "info": "清代原漢墾佃爭地妥協下的產物，漢人佔墾番地需定期完結並納交予歸化番目的土地租金 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DADC"
+    },
+    {
+      "id": "官民合營",
+      "group": "同儕/人際",
+      "info": "日治末期戰時體制下的特有資本結盟形式，由總督府提供特權與林產資源，讓渡予財閥或民間企業 。     ",
+      "start_year": 1940,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DADC"
+    },
+    {
+      "id": "針葉樹林",
+      "group": "自然",
+      "info": "生長於高海拔溫帶與暖帶混合林（如扁柏帶），富含高經濟價值的造船與建築良材 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "闊葉林",
+      "group": "自然",
+      "info": "分布在淺山平地、海拔一千尺以下的熱帶與暖帶森林類型，主要為相思樹及杂木 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "森林之國",
+      "group": "自然",
+      "info": "《新臺灣の事業界》一書中對臺灣高山綿延、有用樹種多達300餘種、森林資源富饒的地理美稱 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "臺灣總督府公文類纂",
+      "group": "資料來源",
+      "info": "數位查詢系統收錄有林野調查委員會、營林所等殖民地官方核心林業管理檔案 。   ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "新竹廳志",
+      "group": "資料來源",
+      "info": "明治38年波越重之編纂之官修地方志，詳實紀載嘉慶、道光年間中北部樟腦業的開採梗概 。     ",
+      "start_year": 1905,
+      "end_year": 1905,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "臺灣日日新報",
+      "group": "資料來源",
+      "info": "日治時期全島第一大報，是研究奧田與植松會社在竹東始業式、索道工程等動態的最關鍵報紙史料 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "臺灣山林會報",
+      "group": "資料來源",
+      "info": "戰前專業林學與山林機關期刊，刊登有大量臺灣拓殖株式會社的官方彩色巨幅廣告與營運網絡 。     ",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "竹東郡勢要覽",
+      "group": "資料來源",
+      "info": "1937年竹東郡役所所編之官方統計要覽，內容包含制度、建設、物產、人口等紀錄。",
+      "start_year": 1937,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "蕭如松",
+      "group": "核心人物",
+      "info": "台灣著名客家畫家，戰後長期於竹東高中任教，作品中多有描繪竹東油田與市街地景。",
+      "start_year": 1945,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "彭開耀",
+      "group": "核心人物",
+      "info": "又名彭開輝，廣東惠州人，乾隆中期來台拓墾，為竹東彭氏家族開基先祖。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "彭乾順",
+      "group": "核心人物",
+      "info": "彭開耀之五房後裔，1806年與四房彭乾和共同移居樹杞林開墾內山邊區。",
+      "start_year": 1806,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "彭清松",
+      "group": "核心人物",
+      "info": "彭殿華之子，曾與新埔潘家結親，後參與乙未抗日之役並犧牲生命。",
+      "start_year": null,
+      "end_year": 1895,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "彭錦濤",
+      "group": "核心人物",
+      "info": "彭開耀五房後裔，資產豐富，授佩紳章，曾任保正、樹杞林區長、竹東庄長及水利組合長。",
+      "start_year": 1908,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "彭蘭芳",
+      "group": "核心人物",
+      "info": "彭開耀四房後裔，資產家，居住於上隴西堂，1899年授佩紳章，擁有市街中間段諸多田地。",
+      "start_year": 1899,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "何義相",
+      "group": "核心人物",
+      "info": "以醫業起家，為何禮謙、何禮棟兩兄弟之父，1918年信用組合創設成員，擁有郡役所前方黃金地段。",
+      "start_year": 1918,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "何禮謙",
+      "group": "核心人物",
+      "info": "又名松原禮謙，何義相長子，就讀國語學校師範部，曾任法院書記官、信購販利組合理事。",
+      "start_year": 1942,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "何禮棟",
+      "group": "核心人物",
+      "info": "繼承父親醫業，就讀臺北醫專與京都帝大，1922年開設竹東醫院，曾任庄協議員、台泥常務董事。",
+      "start_year": 1922,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "宋六成",
+      "group": "核心人物",
+      "info": "宋氏家族先祖，原居住於峨眉庄十寮坑，其後代在竹東開展龐大醫業家族。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "宋瑞樓",
+      "group": "核心人物",
+      "info": "宋燕貽之子，致力於肝病研究，後成為中華民國醫學界尊稱的「臺灣肝病之父」。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "林春秀",
+      "group": "核心人物",
+      "info": "地方重要仕紳，1926年與黃維生、黃棟臣等人共同提倡並集資修築竹東圳。",
+      "start_year": 1926,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "山本宗平",
+      "group": "核心人物",
+      "info": "日人官員或協調者，曾出任改組後的「竹東街農業會」會長，主導戰時農業與林產資源。",
+      "start_year": 1933,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "樹杞林辨務署",
+      "group": "行政",
+      "info": "1897年地方官制調整時，將北埔辨務署址改移至樹杞林而更名成立的行政單位。",
+      "start_year": 1897,
+      "end_year": 1898,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "竹東庄",
+      "group": "行政",
+      "info": "1920年行政區域調整，將原樹杞林街與附近聚落合併而成的基層行政單位。",
+      "start_year": 1920,
+      "end_year": 1933,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "竹東街",
+      "group": "行政",
+      "info": "1933年因開鑿天然氣、設立油業所引發人口膨脹，由竹東庄升格而成的街建制。",
+      "start_year": 1933,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "竹東庄役場",
+      "group": "行政",
+      "info": "1920年行政改制後之庄辦公廳舍，1930年於地號34-10新建落成煉瓦建築。",
+      "start_year": 1920,
+      "end_year": 1933,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "竹東街役場",
+      "group": "行政",
+      "info": "1933年庄升格為街後之地方行政公署，即原竹東庄役場之延續建築。",
+      "start_year": 1933,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "樹杞林尋常小學校",
+      "group": "行政",
+      "info": "1915年創設之專供日人子女就讀之初等教育機構，現今為竹東高中。",
+      "start_year": 1915,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "樹杞林市場",
+      "group": "行政",
+      "info": "1907年由官方設立之具備規格化規模的公設消費市場（今商華市場）。",
+      "start_year": 1907,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "震災復興委員會",
+      "group": "行政",
+      "info": "1935年地震後總督府設立之中央救災與重建審議機構，主導受災街庄的市區計畫。",
+      "start_year": 1935,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "震前第一次市區計畫",
+      "group": "行政",
+      "info": "1935年震前竹東自行實施、未受總督府正式認可的非正式局部市街規劃工程。",
+      "start_year": null,
+      "end_year": 1935,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "震前第二次市區計畫",
+      "group": "行政",
+      "info": "1935年大地震前夕竹東地方實施的第二次局部拓寬與非正式市街重整計畫。",
+      "start_year": null,
+      "end_year": 1935,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "昭和國民學校",
+      "group": "行政",
+      "info": "1943年因應礦工業人口激增，於下公館與雞油林交會處新設之國民學校（今中山國小）。",
+      "start_year": 1943,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "竹東旭青年學校",
+      "group": "行政",
+      "info": "1943年戰時體制下，為加強青年軍事與實業訓練而增設的青年學校。",
+      "start_year": 1943,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "白倉好夫",
+      "group": "官員",
+      "info": "殖民政府林業與土木技師，曾於1936年實地調查並指出竹東震前非正式市區改正之歷史。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "竹東水利組合",
+      "group": "組織/社群",
+      "info": "1923年因應《台灣水利組合令》設立於竹東市街的水利自治管理組織，主導竹東圳之修築。",
+      "start_year": 1923,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "竹東軌道組合",
+      "group": "組織/社群",
+      "info": "1923年由彭錦球、彭清政等彭氏仕紳發起成立之民營軌道組織，鋪設上公館至上坪及十八兒之鐵道。",
+      "start_year": 1923,
+      "end_year": 1938,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "竹東街農業會",
+      "group": "組織/社群",
+      "info": "1933年由信用組合改組而成，山本宗平任會長，1937年新建Art Deco風格之辦公廳舍。",
+      "start_year": 1933,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "新竹天然瓦斯研究所",
+      "group": "組織/社群",
+      "info": "總督府1936年在赤土崎設立之科研機構，研究以瓦斯製造合成石油與炭煙，技術外溢至竹東。",
+      "start_year": 1936,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "竹東醫院",
+      "group": "民間業者",
+      "info": "何禮棟於1922年創設之近代醫院，為何氏家族服務地方醫療、政治與經濟之基地。",
+      "start_year": 1922,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "朝陽醫院",
+      "group": "民間業者",
+      "info": "林順昌於1941年在土地地號252創辦之外科與小兒科醫院。",
+      "start_year": 1941,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "臺灣商工銀行",
+      "group": "民間業者",
+      "info": "於竹東市場對面設立支店之近代金融機構，提供儲蓄、借貸及納稅服務。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "大阪鹽野香料株式會社",
+      "group": "民間業者",
+      "info": "1938年因應竹東柑橘產區與天然氣能源，在上公館設立當時日本唯一之天然香料工廠。",
+      "start_year": 1938,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "日本南方水泥株式會社",
+      "group": "民間業者",
+      "info": "因應關西赤柯山洋灰原石開採，1942年決定於頭前溪畔新生地上設置之大型戰略資材工廠。",
+      "start_year": 1942,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "新竹鐵道株式會社",
+      "group": "民間業者",
+      "info": "1939年由地方仕紳積極爭取與發起敷地調查，計畫私設竹東至新竹之近代產業鐵道。",
+      "start_year": 1939,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "黃鼎三",
+      "group": "民間業者",
+      "info": "泉州富豪，非本地居民，在竹東市街惠昌宮以南擁有大量土地並出租予地方商號。",
+      "start_year": 1901,
+      "end_year": 1930,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "蘇招蘭",
+      "group": "民間業者",
+      "info": "蘇氏家族先祖，自芎林遷移至樹杞林經營米穀與茶葉生意，因而致富並奠定家族勢力。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#F4A261"
+    },
+    {
+      "id": "樹杞林圳",
+      "group": "地點",
+      "info": "自1807年起引用頭前溪水源之公共灌溉水圳，日治時期由官方編為公共埤圳管理。",
+      "start_year": 1807,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "竹東圳",
+      "group": "地點",
+      "info": "1926年由地方仕紳提倡，自軟橋引入頭前溪水，1928年竣工的大型水利建設。",
+      "start_year": 1926,
+      "end_year": 1928,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "奉安殿",
+      "group": "地點",
+      "info": "設置於小學校校園內之核心意識形態空間，用於供奉日本天皇「教育敕語」。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "東寧路",
+      "group": "地點",
+      "info": "竹東市街縱向主幹道，日治1935年市區改正定為「第二號路線」，設置完整下水道。",
+      "start_year": 1935,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "商華街",
+      "group": "地點",
+      "info": "圍繞樹杞林市場（商華市場）發展而成的商業核心街道，路寬定為9米。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "康寧街",
+      "group": "地點",
+      "info": "緊鄰竹東市街西側近山邊之縱向道路，彭家祖厝上隴西堂、下隴西堂坐落於此。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "台灣水利組合令",
+      "group": "事件",
+      "info": "1921年總督府公布之律令，用以將公共埤圳組織整併改設為近代水利組合。",
+      "start_year": 1921,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "土地調查規程",
+      "group": "事件",
+      "info": "總督府實施土地調查之法規，本文中陳麟趾之無人相繼土地即依第117條收歸國庫。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "臺灣軌道令",
+      "group": "事件",
+      "info": "1907年總督府完成制定之私設軌道管理法令草案，逐步將民營輕便軌道納入規範。",
+      "start_year": 1907,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "台灣私設軌道規程",
+      "group": "事件",
+      "info": "1912年總督府以府令第九號制定之法規，嚴格規範民營私設輕便鐵道之營運。",
+      "start_year": 1912,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "台灣下水規則",
+      "group": "事件",
+      "info": "1898年總督府公布之公共衛生與防災法規，規範下水道系統之建置。",
+      "start_year": 1898,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "台灣家屋建築規則",
+      "group": "事件",
+      "info": "1900年公布實施之建築管理法規，強制規範亭仔腳（騎樓）設置與街道退讓。",
+      "start_year": 1900,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "竹東都市計畫區域及追加變更",
+      "group": "事件",
+      "info": "1938年11月依新令頒布，將計畫擴張至周邊庄落，重新變更道路軸線與公園。",
+      "start_year": 1938,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "頭前溪治水計畫",
+      "group": "事件",
+      "info": "1936年總督府啟動為期八年之直營治水工程，取得556甲之廣大新生地。",
+      "start_year": 1936,
+      "end_year": 1944,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "蓪草",
+      "group": "物/技術",
+      "info": "清代至日治初期淺山丘陵開採的高經濟價值林產。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "扁白",
+      "group": "物/技術",
+      "info": "新竹山區與全島高山深處蘊藏的珍貴針葉樹種，為重要林業資源與軍需物資。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "天然氣",
+      "group": "物/技術",
+      "info": "1927年在竹東郡開鑿大圳隧道時偶然發掘的礦產資源，引發竹東由農業轉向礦工業。",
+      "start_year": 1927,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "樹杞林志",
+      "group": "資料來源",
+      "info": "1898年所編修之地方志，為關於竹東地區最早的史料文獻。",
+      "start_year": 1898,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "新竹縣鄉土史料",
+      "group": "資料來源",
+      "info": "台灣省文獻委員會於1994年所舉辦的新竹縣耆老口述歷史座談會紀錄。",
+      "start_year": 1994,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "台灣堡圖",
+      "group": "資料來源",
+      "info": "包括1904年與1921年版地圖，為聚落研究與空間比對之一手圖資。",
+      "start_year": 1904,
+      "end_year": 1921,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "土地申告書",
+      "group": "資料來源",
+      "info": "1901年日治初期實施土地調查時，由業主申告土地權屬與姓氏分布之一手文獻。",
+      "start_year": 1901,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "土地登記簿",
+      "group": "資料來源",
+      "info": "地政機關保存之日治時期土地原始登記紀錄，可得知土地變更與移轉時間。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "土地台帳",
+      "group": "資料來源",
+      "info": "日治時期管理土地課稅與地目變更之原始帳冊。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "家屋台帳",
+      "group": "資料來源",
+      "info": "日治時期登記建築物種類、構造、面積及所有權者之建築原始帳冊。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "職業別明細圖",
+      "group": "資料來源",
+      "info": "1931年出版之地方明細圖，標示商店大小、名稱與官舍分佈之社會地圖。",
+      "start_year": 1931,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "台灣日日新報",
+      "group": "資料來源",
+      "info": "日治時期臺灣發行量最大的官方報紙，保留大量關於竹東公共建設之報導。",
+      "start_year": 1896,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "總督府公文類纂",
+      "group": "資料來源",
+      "info": "臺灣總督府各官署公文檔案之編纂帳冊，為釐清土地、公共建設申請案之一手史料。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "工藤彌九郎",
+      "group": "核心人物",
+      "info": "林業部時期投入植物調查與編寫植物目錄的研究者，編有《臺灣栽培外國產蘭科植物目錄》。",
+      "start_year": 1933,
+      "end_year": 1934,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "山田金治",
+      "group": "核心人物",
+      "info": "林業部研究者，主要研究領域在於植物栽培、種苗試驗與熱帶產單寧備林之造林研究。",
+      "start_year": 1923,
+      "end_year": 1934,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "福本林作",
+      "group": "核心人物",
+      "info": "林業部研究者，專門負責各類樹木的養苗與熱帶綠肥植物栽培等試驗。",
+      "start_year": 1923,
+      "end_year": 1928,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "中井宗三",
+      "group": "核心人物",
+      "info": "參與1905年官方植物調查，著有《北部林木誌》與《臺灣林木誌》。",
+      "start_year": 1905,
+      "end_year": 1930,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "牧野富太郎",
+      "group": "核心人物",
+      "info": "東京帝國大學學者，1896年率先來台採集植物，開啟日人調查台灣植物序幕。",
+      "start_year": 1896,
+      "end_year": 1896,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "工藤祐舜",
+      "group": "核心人物",
+      "info": "理學博士，1928年起擔任臺北帝國大學植物學第一講座，深化台灣植物研究。",
+      "start_year": 1928,
+      "end_year": 1932,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "青木繁",
+      "group": "核心人物",
+      "info": "著有《臺灣林業上的基礎知識》，進行台灣有用樹木的統計歸納。",
+      "start_year": 1930,
+      "end_year": 1933,
+      "lon": null,
+      "lat": null,
+      "col": "#E63946"
+    },
+    {
+      "id": "苗圃",
+      "group": "行政",
+      "info": "1895年日人選定在台北小南門外籌設之近代林學試驗起點。",
+      "start_year": 1895,
+      "end_year": 1900,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "臺北苗圃",
+      "group": "行政",
+      "info": "1900年由原小南門外「苗圃」改稱，為台灣總督府林學試驗系統的演變前身。",
+      "start_year": 1900,
+      "end_year": 1911,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "台灣總督府中央研究所農業部",
+      "group": "行政",
+      "info": "中央研究所下轄之四部之一，專責農業相關的基本調查與試驗。",
+      "start_year": 1921,
+      "end_year": 1939,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "台灣總督府中央研究所工業部",
+      "group": "行政",
+      "info": "中央研究所下轄之四部之一，專責工業相關的基本調查與試驗。",
+      "start_year": 1921,
+      "end_year": 1939,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "台灣總督府中央研究所衛生部",
+      "group": "行政",
+      "info": "中央研究所下轄之四部之一，專責衛生與醫學相關的基本調查與試驗。",
+      "start_year": 1921,
+      "end_year": 1939,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "台灣總督府殖產局營林所",
+      "group": "行政",
+      "info": "官方林務經營與產材單位，負責管理並砍伐扁柏、紅檜等國家管制林木。",
+      "start_year": 1927,
+      "end_year": 1927,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "恆春熱帶植物殖育場",
+      "group": "行政",
+      "info": "1902年創立，為台灣熱帶有用植物、外國輸入樹種（如木麻黃）試驗栽植的重地。",
+      "start_year": 1902,
+      "end_year": 1918,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "東京帝國大學演習林",
+      "group": "行政",
+      "info": "東大於台中州新高、竹山兩郡設置的學術研究林，栽培試驗金雞納樹等熱帶樹種。",
+      "start_year": 1904,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "京都帝國大學演習林",
+      "group": "行政",
+      "info": "京大於高雄州屏東郡「蕃地」（六龜）設置的學術研究林，面積約60,000甲。",
+      "start_year": 1909,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "九州帝國大學演習林",
+      "group": "行政",
+      "info": "九大於台北州文山郡石碇庄設置的演習林，主要試驗樟、肖楠等樹種。",
+      "start_year": 1913,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "北海道帝國大學演習林",
+      "group": "行政",
+      "info": "北大於台中州能高郡埔里街設置的演習林，主要栽培試驗金雞納樹、相思樹等。",
+      "start_year": 1916,
+      "end_year": 1945,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "賀來佐賀太郎",
+      "group": "官員",
+      "info": "台灣總督府總務長官，兼任台灣總督府中央研究所首任所長。",
+      "start_year": 1921,
+      "end_year": 1921,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "田健治郎",
+      "group": "官員",
+      "info": "1919年就任之台灣總督，任內積極拓展農林交通各項產業的試驗研究。",
+      "start_year": 1919,
+      "end_year": 1921,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "川崎卓吉",
+      "group": "官員",
+      "info": "1920年代初期上任之總督府殖產局長，重視試驗場在產業發展中的角色。",
+      "start_year": 1922,
+      "end_year": 1922,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "平野良一",
+      "group": "官員",
+      "info": "台灣總督府殖產局營林所官員，曾協助永山規矩雄進行台灣人木材利用調查。",
+      "start_year": 1927,
+      "end_year": 1927,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "神谷重造",
+      "group": "官員",
+      "info": "林業試驗研究人員，與福本林作共同發表柚木苗之養苗方法試驗。",
+      "start_year": 1923,
+      "end_year": 1923,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "藤崎早苗",
+      "group": "官員",
+      "info": "林業部試驗人員，與永山規矩雄共同發表移植木麻黃屬燃力及木炭熱量比較試驗。",
+      "start_year": 1924,
+      "end_year": 1924,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "黃紹霖",
+      "group": "官員",
+      "info": "林業部技術人員，協助永山規矩雄進行軌條枕木大釘保持力與日本杉材質試驗。",
+      "start_year": 1929,
+      "end_year": 1931,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "坂垣肇",
+      "group": "官員",
+      "info": "林業部研究人員，與山田金治共同發表桉樹屬及相思樹之播種造林試驗。",
+      "start_year": 1932,
+      "end_year": 1932,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "山崎良邦",
+      "group": "官員",
+      "info": "林業部技術人員，主導台灣產主要松類之松脂採取試驗。",
+      "start_year": 1934,
+      "end_year": 1934,
+      "lon": null,
+      "lat": null,
+      "col": "#CCCCCC"
+    },
+    {
+      "id": "台灣山林會",
+      "group": "組織/社群",
+      "info": "殖民地林業官僚與學者組成的法人團體，出版《臺灣山林會報》與《臺灣の山林》。",
+      "start_year": 1932,
+      "end_year": 1935,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "排灣族",
+      "group": "組織/社群",
+      "info": "台灣南部原住民族群，山田金治曾對其利用植物的舊慣進行調查。",
+      "start_year": 1923,
+      "end_year": 1923,
+      "lon": null,
+      "lat": null,
+      "col": "#4CC9F0"
+    },
+    {
+      "id": "台北小南門外",
+      "group": "地點",
+      "info": "台灣近代林學試驗苗圃的最初開設地點。",
+      "start_year": 1895,
+      "end_year": 1896,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "台北市南門町",
+      "group": "地點",
+      "info": "台灣總督府中央研究所林業部本部所在地，面積共17.8551甲。",
+      "start_year": 1921,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "阿里山",
+      "group": "地點",
+      "info": "台灣重要林區，金平亮三、早田文藏及佐佐木舜一多次入山進行植物採集與探險。",
+      "start_year": 1909,
+      "end_year": 1922,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "太魯閣",
+      "group": "地點",
+      "info": "東部植物調查樣區，謝阿才曾在此採集並編寫沿岸植物目錄。",
+      "start_year": 1936,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "紅頭嶼",
+      "group": "地點",
+      "info": "即蘭嶼，佐佐木舜一曾對該列島進行植物地理學與區系學研究。",
+      "start_year": 1937,
+      "end_year": 1937,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "溪頭",
+      "group": "地點",
+      "info": "佐佐木舜一新高山彙植物調查登山行程中的重要下山起訖點。",
+      "start_year": 1918,
+      "end_year": 1922,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "豬朥束",
+      "group": "地點",
+      "info": "恆春熱帶植物殖育場的分場，用於栽植外國移入的木麻黃母樹園。",
+      "start_year": 1902,
+      "end_year": 1918,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "港口",
+      "group": "地點",
+      "info": "恆春熱帶植物殖育場的分場，作為試驗區境界木與防風林種子育成地。",
+      "start_year": 1902,
+      "end_year": 1918,
+      "lon": null,
+      "lat": null,
+      "col": "#2A9D8F"
+    },
+    {
+      "id": "森林調查內規",
+      "group": "事件",
+      "info": "1896年總督府所制訂的行政內規，旨在展開大規模山林林野調查以建立近代林業基礎。",
+      "start_year": 1896,
+      "end_year": 1896,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "台灣總督府中央研究所官制發布",
+      "group": "事件",
+      "info": "1921年8月2日以敕令第362號發布，正式將農林糖衛生等獨立試驗機關合併整編。",
+      "start_year": 1921,
+      "end_year": 1921,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "第一次世界大戰",
+      "group": "事件",
+      "info": "一戰結束後引發全球研究機關整合風潮，亦加速台灣產業開發與試驗研究轉型。",
+      "start_year": 1914,
+      "end_year": 1918,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "移植熱帶產單寧備林之試驗",
+      "group": "事件",
+      "info": "1930年代因應非常時期經濟封鎖，為滿足軍需皮革工業所進行的單寧原料引進試驗。",
+      "start_year": 1934,
+      "end_year": 1934,
+      "lon": null,
+      "lat": null,
+      "col": "#E9C46A"
+    },
+    {
+      "id": "木麻黃",
+      "group": "物/技術",
+      "info": "原產澳洲之常綠喬木，具優良的防潮與防砂功能，為台灣海岸與熱帶防風林之核心樹種。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "金合歡",
+      "group": "物/技術",
+      "info": "熱帶富含單寧酸之重要軍需工業樹種，由山田金治建議引入台灣作為戰時自給備林。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "奎寧",
+      "group": "物/技術",
+      "info": "又稱金雞納樹，其針劑具抗瘧疾特效，為近代帝國向熱帶擴張與戰時動員之關鍵軍需植物。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "亞杉",
+      "group": "物/技術",
+      "info": "又稱台灣杉、松蘿，學術上貴重但亦被營林所作為建材與棺材用材利用。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "加強乾燥密封貯藏法",
+      "group": "物/技術",
+      "info": "吉良九州男試驗出利用種子重量200倍的酸白土作為乾燥劑，以長期保存奎寧種子發芽力。",
+      "start_year": 1935,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "木材解剖識別技術",
+      "group": "物/技術",
+      "info": "金平亮三引進並奠定的近代林學技術，透過顯微解剖物理性質，建立鑑定與利用木材之基礎。",
+      "start_year": 1920,
+      "end_year": 1926,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "架空索道運搬模型",
+      "group": "物/技術",
+      "info": "關文彥針對林場運材途中曲線路通過至難之原因，所考案出的實際新運搬改良技術。",
+      "start_year": 1936,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#83C5BE"
+    },
+    {
+      "id": "熱帶林",
+      "group": "自然",
+      "info": "海拔750公尺以下之森林類型，新高山彙中組成多由華中、華南熱帶樹種構成。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "暖帶林",
+      "group": "自然",
+      "info": "海拔750至1,660公尺之間的森林類型，在新高山彙中所佔台灣固有樹種數量最多。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "溫帶林",
+      "group": "自然",
+      "info": "海拔1,660至3,000公尺之間的森林類型，下部與上部蘊含大量貴重針葉樹。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "寒帶林",
+      "group": "自然",
+      "info": "海拔3,000公尺以上之高山森林類型，樹種因嚴酷氣候大量減少，最高頂僅存3種。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "林野舊慣",
+      "group": "自然",
+      "info": "傳統台灣人基於龍脈迷信、防風、匪賊防禦或水源保存所形成的林野保護與利用習慣。",
+      "start_year": null,
+      "end_year": null,
+      "lon": null,
+      "lat": null,
+      "col": "#9D4EDD"
+    },
+    {
+      "id": "增補改版臺灣樹木誌",
+      "group": "資料來源",
+      "info": "金平亮三於1936年完成之增補改版第二版巨著，編列為中央研究所特別報告第一號。",
+      "start_year": 1936,
+      "end_year": 1936,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "臺灣植物目錄",
+      "group": "資料來源",
+      "info": "1896年亞細亞學會出版英人亨利（Henry）所著之台灣植物最初報告，收入1,428種。",
+      "start_year": 1896,
+      "end_year": 1896,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
+    },
+    {
+      "id": "臺灣植物志",
+      "group": "資料來源",
+      "info": "1906年早田文藏與松村任三合著出版，為1905年官方植物調查後之最初成績。",
+      "start_year": 1906,
+      "end_year": 1906,
+      "lon": null,
+      "lat": null,
+      "col": "#A8DABB"
     }
   ],
   "links": [
@@ -18378,6 +21526,894 @@
       "group": "組織/社群",
       "label": "擔任職務",
       "info": "杜火炎在日治昭和時期任職新竹州森林主事。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "大川敬藏",
+      "target": "平戶吉藏",
+      "group": "親屬/人際",
+      "label": "外孫",
+      "info": "大川敬藏為植松材木店創辦人平戶吉藏的外孫 。    ",
+      "color": "#457B9D"
+    },
+    {
+      "source": "曾寶貞",
+      "target": "連瑞枝博士",
+      "group": "同儕/人際",
+      "label": "指導學生",
+      "info": "曾寶貞撰寫該碩士論文，連瑞枝博士為其指導教授 。    ",
+      "color": "#1D3557"
+    },
+    {
+      "source": "奧田材木店",
+      "target": "植松材木店",
+      "group": "組織/社群",
+      "label": "合作開發",
+      "info": "昭和15年奧田材木店與植松合作開發石加鹿大山的香杉林 。   ",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "吉田三三郎",
+      "target": "吉田材木店",
+      "group": "權力/人際",
+      "label": "創辦人",
+      "info": "吉田三三郎在卸任竹東街長職務後，創立了自己的吉田材木店 。   ",
+      "color": "#A8DADC"
+    },
+    {
+      "source": "臺灣拓殖株式會社竹東出張所",
+      "target": "鹿場大山",
+      "group": "地點",
+      "label": "位於",
+      "info": "臺灣拓殖株式會社竹東出張所的主要事業林地位於鹿場大山 。    ",
+      "color": "#E63946"
+    },
+    {
+      "source": "植松材木店竹東支店",
+      "target": "營林所",
+      "group": "行政",
+      "label": "接收轉移",
+      "info": "戰時體制下官方將營林所的部分林野、人員委讓給臺拓或日資會社如植松經營 。    ",
+      "color": "#999999"
+    },
+    {
+      "source": "山田直榮",
+      "target": "植松材木店竹東支店",
+      "group": "權力/人際",
+      "label": "任職支店長",
+      "info": "山田直榮擔任植松材木店竹東支店的支店長，負責實際經營 。    ",
+      "color": "#A8DADC"
+    },
+    {
+      "source": "蘇明亮",
+      "target": "臺灣拓殖株式會社竹東出張所",
+      "group": "同儕/人際",
+      "label": "任職雇員",
+      "info": "出身竹東蘇家的蘇明亮任職於臺拓竹東出張所擔任事務雇員 。    ",
+      "color": "#1D3557"
+    },
+    {
+      "source": "蘇慶土",
+      "target": "臺灣拓殖株式會社",
+      "group": "民間業者",
+      "label": "出租土地",
+      "info": "蘇慶土將其擁有的雞油林、荳子埔多處土地出租予臺灣拓殖株式會社 。    ",
+      "color": "#999999"
+    },
+    {
+      "source": "吉田三三郎",
+      "target": "植松材木店",
+      "group": "同儕/人際",
+      "label": "租地見證人",
+      "info": "吉田三三郎在植松與民間訂定的租地契約中擔任見證人 。    ",
+      "color": "#1D3557"
+    },
+    {
+      "source": "奧田廣吉",
+      "target": "奧田材木店",
+      "group": "權力/人際",
+      "label": "負責人",
+      "info": "奧田廣吉為竹東地區日資奧田材木店的店主與負責人 。    ",
+      "color": "#A8DADC"
+    },
+    {
+      "source": "彭清政",
+      "target": "新竹林產興業株式會社",
+      "group": "組織/社群",
+      "label": "參股投資",
+      "info": "竹東彭家代表性人物彭清政參與投資並持有新竹林產興業的股份 。    ",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "宋燕謀",
+      "target": "新竹林產興業株式會社",
+      "group": "組織/社群",
+      "label": "參股投資",
+      "info": "竹東宋家代表性人物宋燕謀（長春醫院創辦人）投資了新竹林產興業 。    ",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "姜阿新",
+      "target": "新竹林產興業株式會社",
+      "group": "組織/社群",
+      "label": "參股投資",
+      "info": "北埔知名茶商與林業實業家姜阿新參股了新竹林產興業株式會社 。    ",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "劉通略",
+      "target": "茂興木行及製材所",
+      "group": "權力/人際",
+      "label": "負責人",
+      "info": "劉通略為茂興木行及製材所的負責人 。    ",
+      "color": "#A8DADC"
+    },
+    {
+      "source": "劉通略",
+      "target": "山田直榮",
+      "group": "同儕/人際",
+      "label": "簽訂契約",
+      "info": "劉通略與植松支店長山田直榮簽訂香杉下腳料買賣長期契約 。   ",
+      "color": "#1D3557"
+    },
+    {
+      "source": "丁老吻",
+      "target": "什班",
+      "group": "同儕/人際",
+      "label": "共同管理",
+      "info": "清乾隆時期竹塹社通事丁老吻與土目什班共同經理下員山至頭重埔埔地 。    ",
+      "color": "#1D3557"
+    },
+    {
+      "source": "彭乾和",
+      "target": "金惠成",
+      "group": "組織/社群",
+      "label": "創辦墾號",
+      "info": "嘉慶11年彭乾和等奉官諭合夥組成金惠成墾號進行大規模拓墾 。   ",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "姜秀鑾",
+      "target": "金廣福",
+      "group": "組織/社群",
+      "label": "進墾前哨",
+      "info": "姜秀鑾介入四重埔拓墾，該地成為金廣福進墾北埔的前哨站 。   ",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "林秋華",
+      "target": "員山庄",
+      "group": "地點",
+      "label": "取得開墾權",
+      "info": "林秋華向竹塹社屯番業主取得員山南重埔山林埔地一帶開墾權 。   ",
+      "color": "#E63946"
+    },
+    {
+      "source": "劉銘傳",
+      "target": "腦務總局",
+      "group": "行政",
+      "label": "設置",
+      "info": "光緒12年巡撫劉銘傳決定將樟腦經營權收歸官辦國有，設置腦務總局 。    ",
+      "color": "#999999"
+    },
+    {
+      "source": "林朝棟",
+      "target": "泰雅族",
+      "group": "事件",
+      "label": "征討抗衡",
+      "info": "統領林朝棟率領棟軍出兵征討五指山番泰雅族部落 。   ",
+      "color": "#E63946"
+    },
+    {
+      "source": "朱打馬",
+      "target": "金廣福",
+      "group": "同儕/人際",
+      "label": "番地之爭",
+      "info": "總土目朱打馬曾因大南坑、柏色林業權與金廣福墾戶發生爭端 。   ",
+      "color": "#1D3557"
+    },
+    {
+      "source": "樺山資紀",
+      "target": "泰雅族",
+      "group": "權力/人際",
+      "label": "接見歸順",
+      "info": "第一任臺灣總督樺山資紀在臺北接見並綏撫角板山社泰雅族原住民 。   ",
+      "color": "#A8DADC"
+    },
+    {
+      "source": "佐久間左馬太",
+      "target": "五年理蕃計畫",
+      "group": "事件",
+      "label": "推行實施",
+      "info": "第五任臺灣總督佐久間左馬太出任期間定下並推行五年理蕃計畫 。    ",
+      "color": "#E63946"
+    },
+    {
+      "source": "飯島幹太郎",
+      "target": "泰雅族",
+      "group": "資料來源",
+      "label": "調查蕃情",
+      "info": "總督府技手飯島幹太郎撰寫報告調查十八兒社等泰雅族部落之蕃情 。    ",
+      "color": "#999999"
+    },
+    {
+      "source": "康何經",
+      "target": "植松木行",
+      "group": "權力/人際",
+      "label": "指派監理",
+      "info": "戰後臺灣省行政長官公署指派監理員康何經負責植松木行的接收監理 。   ",
+      "color": "#A8DADC"
+    },
+    {
+      "source": "樹杞林街",
+      "target": "輕便車",
+      "group": "工具/技術/制度",
+      "label": "運材軌道",
+      "info": "竹東內山林產透過台車（輕便車）沿軌道運送至樹杞林街集散 。    ",
+      "color": "#F4A261"
+    },
+    {
+      "source": "植松材木店竹東支店",
+      "target": "貯木池",
+      "group": "工具/技術/制度",
+      "label": "浸泡保護",
+      "info": "植松會社在雞油林基地興建大型貯木池用以浸泡、保護珍貴五木 。    ",
+      "color": "#F4A261"
+    },
+    {
+      "source": "香杉",
+      "target": "植松材木店竹東支店",
+      "group": "自然",
+      "label": "軍需採伐",
+      "info": "太平洋戰爭後期，植松支店大量採伐香杉針葉林以供應海軍造船軍需 。    ",
+      "color": "#F4A261"
+    },
+    {
+      "source": "竹東地區",
+      "target": "樹杞林街",
+      "group": "地點",
+      "label": "包含",
+      "info": "樹杞林街為竹東地區舊時因樟腦盛產而興盛的集散市街 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "竹東地區",
+      "target": "樟腦",
+      "group": "自然",
+      "label": "盛產",
+      "info": "竹東地區（舊稱樹杞林）自清代起便因盛產樟腦而促成聚落興盛 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "臺灣總督府",
+      "target": "樟腦",
+      "group": "工具/技術/制度",
+      "label": "實施專賣",
+      "info": "臺灣總督府實施樟腦專賣制度，將林產利益納入國家支配 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "伊能嘉矩",
+      "target": "五指山區",
+      "group": "地點",
+      "label": "踏查",
+      "info": "伊能嘉矩曾至五指山區進行實地踏查。",
+      "color": "#E63946"
+    },
+    {
+      "source": "伊能嘉矩",
+      "target": "腦灶",
+      "group": "工具/技術/制度",
+      "label": "記錄",
+      "info": "伊能嘉矩的踏查日記中記錄了腦灶與腦寮的分布。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "五指山區",
+      "target": "腦寮",
+      "group": "地點",
+      "label": "分布有",
+      "info": "五指山區在日治初期分布有許多漢人製腦的腦寮。",
+      "color": "#E63946"
+    },
+    {
+      "source": "臺灣總督府",
+      "target": "林野調查",
+      "group": "事件",
+      "label": "主導",
+      "info": "臺灣總督府在明治晚期至大正年間全面發動林野調查 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "林野調查",
+      "target": "官有林野整理事業",
+      "group": "事件",
+      "label": "伴隨",
+      "info": "林野調查與官有林野整理事業為總督府整頓利權的法制工程。",
+      "color": "#E63946"
+    },
+    {
+      "source": "林野調查",
+      "target": "官有林野",
+      "group": "工具/技術/制度",
+      "label": "確立產權",
+      "info": "林野調查依據無主地國有原則，清查出廣大的官有林野 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "竹東地區",
+      "target": "泰雅族人",
+      "group": "地點",
+      "label": "鄰近",
+      "info": "竹東漢人墾民過去常越界向鄰近內山的泰雅族人租地拓墾 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "佐久間左馬太",
+      "target": "五年理蕃計畫",
+      "group": "事件",
+      "label": "推行",
+      "info": "臺灣總督佐久間左馬太在任內主導推行五年理蕃計畫。",
+      "color": "#E63946"
+    },
+    {
+      "source": "五年理蕃計畫",
+      "target": "隘勇線",
+      "group": "工具/技術/制度",
+      "label": "推進",
+      "info": "五年理蕃計畫促使官方武裝防線隘勇線不斷向內山挺進。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "隘勇線",
+      "target": "三大官營林場",
+      "group": "地點",
+      "label": "開路",
+      "info": "隘勇線推進解除山地威脅後，林業開發始轉向三大官營林場之高山 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "新竹拓殖軌道株式會社",
+      "target": "輕便鐵道",
+      "group": "工具/技術/制度",
+      "label": "架設",
+      "info": "民營軌道會社新竹拓殖軌道株式會社積極架設輕便鐵道運材 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "新竹拓殖軌道株式會社",
+      "target": "內灣",
+      "group": "地點",
+      "label": "通車至",
+      "info": "新竹拓殖軌道株式會社架設的輕便鐵道路線由新竹延伸至內灣 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "竹東地區",
+      "target": "上公館",
+      "group": "地點",
+      "label": "包含",
+      "info": "上公館為竹東地區內緊鄰淺山、盛產樟木的邊區聚落 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "輕便鐵道",
+      "target": "十八兒",
+      "group": "地點",
+      "label": "延伸至",
+      "info": "地方輕便鐵道路線沿上公館逐步向內山延伸至十八兒（五峰） 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "輕便鐵道",
+      "target": "上坪",
+      "group": "地點",
+      "label": "延伸至",
+      "info": "輕便鐵道網絡沿上公館延伸至高山邊區的上坪以建立運材網 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "臺灣總督府",
+      "target": "阿里山作業所",
+      "group": "組織/社群",
+      "label": "設立",
+      "info": "總督府自1910年起設立阿里山作業所，展開官營伐木。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "阿里山作業所",
+      "target": "三大官營林場",
+      "group": "組織/社群",
+      "label": "屬於",
+      "info": "阿里山作業所的大規模開發為三大官營林場的確立奠定基礎 。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "臺灣總督府",
+      "target": "臺灣森林令",
+      "group": "工具/技術/制度",
+      "label": "頒布",
+      "info": "臺灣總督府於1919年頒布臺灣森林令，將林政納入近代法治。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "臺灣總督府",
+      "target": "森林計畫事業",
+      "group": "事件",
+      "label": "啟動",
+      "info": "總督府於1925年全面啟動系統性的森林計畫事業 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "森林計畫事業",
+      "target": "扁柏",
+      "group": "自然",
+      "label": "管制採伐",
+      "info": "森林計畫事業將天然林法正化，在植伐平衡下管制扁柏的採伐 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "森林計畫事業",
+      "target": "紅檜",
+      "group": "自然",
+      "label": "管制採伐",
+      "info": "森林計畫事業將新竹山區豐富的紅檜資源納入科學化保續管理 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "植松材木店",
+      "target": "竹東地區",
+      "group": "地點",
+      "label": "進駐",
+      "info": "日本民營林業巨頭植松材木店於1940年在竹東設立出張所 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "植松材木店",
+      "target": "紅檜",
+      "group": "工具/技術/制度",
+      "label": "採伐",
+      "info": "植松材木店深入山區大量砍伐紅檜，做為海軍供料指定工場 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "臺灣拓殖株式會社",
+      "target": "竹東地區",
+      "group": "地點",
+      "label": "進駐",
+      "info": "國策會社臺灣拓殖株式會社於1943年進駐竹東成立出張所 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "臺灣拓殖株式會社",
+      "target": "鹿場大山",
+      "group": "地點",
+      "label": "開發",
+      "info": "臺灣拓殖株式會社奉命強行開發高海拔的鹿場大山密林 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "臺灣拓殖株式會社",
+      "target": "扁柏",
+      "group": "工具/技術/制度",
+      "label": "掠奪採伐",
+      "info": "戰時體制下，臺灣拓殖株式會社因軍需在鹿場大山瘋狂掠奪扁柏 。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "竹東地區",
+      "target": "南河庄",
+      "group": "地點",
+      "label": "包含",
+      "info": "南河庄為竹東周邊村落，常民因戰時林業擴張而大量投入勞動。",
+      "color": "#E63946"
+    },
+    {
+      "source": "彭殿華",
+      "target": "惠昌宮",
+      "group": "地點",
+      "label": "掌握地權",
+      "info": "彭殿華所掌握的土地在市街分布上，處於接近惠昌宮一帶。",
+      "color": "#E63946"
+    },
+    {
+      "source": "撫墾署",
+      "target": "彭殿華",
+      "group": "權力/人際",
+      "label": "借用房舍",
+      "info": "1896年總督府設立撫墾署開發樟腦，辦公位置係借用彭殿華之房舍。",
+      "color": "#A8DADC"
+    },
+    {
+      "source": "彭玉理",
+      "target": "惠昌宮",
+      "group": "工具/技術/制度",
+      "label": "設計改建",
+      "info": "1970年惠昌宮因白蟻侵襲再次重建，由建築師彭玉理負責設計。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "樹杞林信用組合",
+      "target": "宋燕貽",
+      "group": "組織/社群",
+      "label": "推派首領",
+      "info": "1918年信用組合創設，推派醫師宋燕貽擔任組合長。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "宋燕貽",
+      "target": "長春醫院",
+      "group": "組織/社群",
+      "label": "創設",
+      "info": "宋燕貽於1909年六月來到竹東街設立長春醫院。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "宋燕貽",
+      "target": "樹杞林信用組合",
+      "group": "組織/社群",
+      "label": "創設",
+      "info": "1918年以宋燕貽為首，聯合地方商工仕紳集資申請成立信用組合。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "宋燕翔",
+      "target": "長春醫院",
+      "group": "親屬/人際",
+      "label": "醫生",
+      "info": "宋燕翔為宋燕貽之大弟，擔任長春醫院內科與小兒科醫生。",
+      "color": "#457B9D"
+    },
+    {
+      "source": "宋燕謀",
+      "target": "長春醫院",
+      "group": "親屬/人際",
+      "label": "任會計",
+      "info": "宋燕謀為宋燕貽小弟，曾任職長春醫院藥局處理會計事務。",
+      "color": "#457B9D"
+    },
+    {
+      "source": "蘇廷清",
+      "target": "展東炭礦公司",
+      "group": "組織/社群",
+      "label": "任職",
+      "info": "蘇廷清曾於展東炭礦公司從事石炭（煤礦）挖掘工作。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "樹杞林支廳",
+      "target": "惠昌宮",
+      "group": "地點",
+      "label": "相鄰",
+      "info": "1901年設立之樹杞林支廳舊址，位於信仰中心惠昌宮附近。",
+      "color": "#E63946"
+    },
+    {
+      "source": "樹杞林區長役場",
+      "target": "長春路",
+      "group": "地點",
+      "label": "位於",
+      "info": "最早的街役場（區長役場）辦公處借用民宅，靠近早期長春路隘道。",
+      "color": "#E63946"
+    },
+    {
+      "source": "樹杞林公學校",
+      "target": "惠昌宮",
+      "group": "地點",
+      "label": "借用校舍",
+      "info": "1899年公學校創設初期，係借用惠昌宮旁的家屋作為臨時校舍。",
+      "color": "#E63946"
+    },
+    {
+      "source": "樹杞林公學校",
+      "target": "吳天祐紀念碑",
+      "group": "地點",
+      "label": "設有",
+      "info": "1933年為紀念捐地仕紳，於現今竹東國小（原公學校）操場設立吳天祐紀念碑。",
+      "color": "#E63946"
+    },
+    {
+      "source": "樹杞林下水溝改修計畫",
+      "target": "古市巷",
+      "group": "地點",
+      "label": "修正截斷",
+      "info": "1917年改修下水溝與道路時，截斷並修正了古市巷部分有機蜿蜒的小徑。",
+      "color": "#E63946"
+    },
+    {
+      "source": "竹東郡役所",
+      "target": "大同路",
+      "group": "地點",
+      "label": "沿線發展",
+      "info": "1915年行政中心南遷後，大同路即沿郡役所前方軸線發展。",
+      "color": "#E63946"
+    },
+    {
+      "source": "輕便鐵道",
+      "target": "長春路",
+      "group": "地點",
+      "label": "行駛於",
+      "info": "日治初期鋪設通往新竹與山區之輕便軌道路線，主要行駛於長春路 。",
+      "color": "#E63946"
+    },
+    {
+      "source": "屯子腳大地震",
+      "target": "市區改正計畫",
+      "group": "事件",
+      "label": "催生",
+      "info": "1935年屯子腳大地震造成住家嚴重損毀，直接催生竹東正式都市改正計畫。",
+      "color": "#E63946"
+    },
+    {
+      "source": "臺灣礦業株式會社",
+      "target": "竹東油業所",
+      "group": "組織/社群",
+      "label": "下設",
+      "info": "臺灣礦業株式會社獲得開採權後，在下公館設置大規模之竹東油業所 。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "榮樂館",
+      "target": "臺灣都市計畫令",
+      "group": "事件",
+      "label": "興建",
+      "info": "地方仕紳因新令實施、娛樂需求，集資於1938年建成榮樂館劇場。",
+      "color": "#E63946"
+    },
+    {
+      "source": "圓形廣場",
+      "target": "竹東郡役所",
+      "group": "地點",
+      "label": "規劃移轉",
+      "info": "1938年都市計畫在官公署旁劃設大圓環廣場，引導行政中心新區發展。",
+      "color": "#E63946"
+    },
+    {
+      "source": "蕭如松園區",
+      "target": "長春路",
+      "group": "地點",
+      "label": "鄰近",
+      "info": "現今之蕭如松園區（包含校長宿舍與街營住宅），地理位置鄰近長春路官舍區。",
+      "color": "#E63946"
+    },
+    {
+      "source": "賀田直治",
+      "target": "台灣總督府殖產局林業試驗場",
+      "group": "組織/社群",
+      "label": "擔任場長",
+      "info": "賀田直治於1911至1916年間擔任該試驗場之首任場長。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "賀田直治",
+      "target": "臺灣林業史",
+      "group": "工具/技術/制度",
+      "label": "撰寫出版",
+      "info": "賀田直治於1917年以殖產局名義出版了首部專著《臺灣林業史》。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "金平亮三",
+      "target": "台灣總督府殖產局林業試驗場",
+      "group": "組織/社群",
+      "label": "擔任場長",
+      "info": "金平亮三為林業試驗場之最後一任場長。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "金平亮三",
+      "target": "台灣總督府中央研究所林業部",
+      "group": "組織/社群",
+      "label": "擔任部長",
+      "info": "金平亮三於1921年轉任林業部首任部長。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "金平亮三",
+      "target": "臺灣有用樹木誌",
+      "group": "工具/技術/制度",
+      "label": "撰寫出版",
+      "info": "金平亮三於1918年接任部長前即完成並出版《臺灣有用樹木誌》。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "佐佐木舜一",
+      "target": "台灣總督府中央研究所林業部",
+      "group": "組織/社群",
+      "label": "任職研究",
+      "info": "佐佐木舜一長期在林業部內專門從事植物調查與編寫目錄。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "佐佐木舜一",
+      "target": "新高山彙",
+      "group": "地點",
+      "label": "調查採集",
+      "info": "佐佐木舜一歷時12年先後10次進入新高山彙進行實證植物調查。",
+      "color": "#E63946"
+    },
+    {
+      "source": "永山規矩雄",
+      "target": "台灣總督府中央研究所林業部",
+      "group": "組織/社群",
+      "label": "任職研究",
+      "info": "永山規矩雄在林業部內集中從事木材試驗利用的長期研究。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "永山規矩雄",
+      "target": "臺灣に於ける木竹材の利用(本島人之部)",
+      "group": "工具/技術/制度",
+      "label": "撰寫發表",
+      "info": "永山規矩雄於1927年發表該報告，成為木材利用之重要文獻。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "山本由松",
+      "target": "續臺灣植物圖譜",
+      "group": "工具/技術/制度",
+      "label": "撰寫發表",
+      "info": "山本由松自1925年起陸續編纂發表5輯拉丁文的《續臺灣植物圖譜》。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "早田文藏",
+      "target": "臺灣植物圖譜",
+      "group": "工具/技術/制度",
+      "label": "編纂完成",
+      "info": "早田文藏自1911至1921年間費時10年完成10卷《臺灣植物圖譜》。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "川上瀧彌",
+      "target": "官方植物調查事業",
+      "group": "事件",
+      "label": "主持領導",
+      "info": "1905年總督府展開官方植物調查事業，由技師川上瀧彌主持。",
+      "color": "#E63946"
+    },
+    {
+      "source": "關文彥",
+      "target": "台灣總督府中央研究所林業部",
+      "group": "組織/社群",
+      "label": "擔任部長",
+      "info": "關文彥於1930年代中期繼金平亮三之後出任林業部部長。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "昇益川",
+      "target": "木麻黃造林試驗",
+      "group": "事件",
+      "label": "主導試驗",
+      "info": "昇益川在恆春支場針對引進之木麻黃進行全面的移植造林試驗。",
+      "color": "#E63946"
+    },
+    {
+      "source": "吉良九州男",
+      "target": "臺灣總督府中央研究所林業部彙報",
+      "group": "資料來源",
+      "label": "發表報告",
+      "info": "吉良九州男於1937年將奎寧種子貯藏試驗發表於《彙報》第七號。",
+      "color": "#999999"
+    },
+    {
+      "source": "飯塚肇",
+      "target": "臺灣總督府中央研究所林業部報告",
+      "group": "資料來源",
+      "label": "發表報告",
+      "info": "飯塚肇將其《奎寧造林研究》之成果發表於林業部《報告》中。",
+      "color": "#999999"
+    },
+    {
+      "source": "謝阿才",
+      "target": "臺灣總督府中央研究所林業部彙報",
+      "group": "資料來源",
+      "label": "發表報告",
+      "info": "謝阿才將《太魯閣沿岸植物目錄》發表於林業部《彙報》第六號。",
+      "color": "#999999"
+    },
+    {
+      "source": "松浦作治郎",
+      "target": "臺灣總督府中央研究所林業部報告",
+      "group": "資料來源",
+      "label": "發表報告",
+      "info": "松浦作治郎於1931與1934年先後在《報告》中發表安南漆栽培成果。",
+      "color": "#999999"
+    },
+    {
+      "source": "台灣總督府中央研究所林業部",
+      "target": "蓮華池試驗地",
+      "group": "地點",
+      "label": "管轄",
+      "info": "蓮華池試驗地為林業部本部之下轄試驗地，面積達430甲。",
+      "color": "#E63946"
+    },
+    {
+      "source": "台灣總督府中央研究所林業部",
+      "target": "中埔林業試驗支所",
+      "group": "地點",
+      "label": "管轄",
+      "info": "中埔林業試驗支所為林業部下轄之重要中部與南部試驗基地。",
+      "color": "#E63946"
+    },
+    {
+      "source": "台灣總督府中央研究所林業部",
+      "target": "恆春林業試驗支所",
+      "group": "地點",
+      "label": "管轄",
+      "info": "恆春林業試驗支所為林業部管轄之熱帶植物與木麻黃試驗核心。",
+      "color": "#E63946"
+    },
+    {
+      "source": "台灣總督府中央研究所林業部",
+      "target": "臺東藥用植物試驗地",
+      "group": "地點",
+      "label": "管轄",
+      "info": "位於大武支廳「蕃地」之藥用植物試驗地由林業部直接管轄。",
+      "color": "#E63946"
+    },
+    {
+      "source": "台灣總督府",
+      "target": "台灣總督府中央研究所",
+      "group": "組織/社群",
+      "label": "隸屬",
+      "info": "1921年總督府發布官制敕令，正式成立直轄之中央研究所。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "台灣總督府中央研究所",
+      "target": "台灣總督府中央研究所林業部",
+      "group": "組織/社群",
+      "label": "隸屬",
+      "info": "林業部為中央研究所於1921年官制成立時下轄之四個部門之一。",
+      "color": "#2A9D8F"
+    },
+    {
+      "source": "台灣總督府中央研究所林業部",
+      "target": "林業試驗所",
+      "group": "工具/技術/制度",
+      "label": "改組轉移",
+      "info": "1939年中央研究所解體，其林業部改組並改稱為林業試驗所。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "營林所",
+      "target": "紅檜",
+      "group": "自然",
+      "label": "砍伐管制",
+      "info": "營林所砍伐供應之官行材中，以貴重之紅檜與扁柏為最主要大宗。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "漢人",
+      "target": "福州杉",
+      "group": "工具/技術/制度",
+      "label": "慣用",
+      "info": "台灣漢人在建築與棺材製造上具有使用福州杉之民族歷史習慣。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "台灣星製藥株式會社",
+      "target": "奎寧造林試驗",
+      "group": "事件",
+      "label": "參與實施",
+      "info": "民間星製藥會社在高雄州與台東廳大舉投資參與奎寧造林事業。",
+      "color": "#E63946"
+    },
+    {
+      "source": "烏來",
+      "target": "北部林木誌",
+      "group": "工具/技術/制度",
+      "label": "導引認識",
+      "info": "金平亮三早期在烏來依靠中井宗三的《北部林木誌》指導認識原生樹種。",
+      "color": "#F4A261"
+    },
+    {
+      "source": "東京帝國大學",
+      "target": "臺北帝國大學",
+      "group": "組織/社群",
+      "label": "研究轉移",
+      "info": "台灣植物調查學術重心由早期東京帝大，經林業部，後轉移至臺北帝大。",
       "color": "#2A9D8F"
     }
   ],
