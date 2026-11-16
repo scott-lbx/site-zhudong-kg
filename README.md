@@ -1,5 +1,7 @@
 # site-zhudong-kg：竹東知識圖譜
 
+<!-- hero --><p align="center"><img src="docs/assets/hero.png" alt="site-zhudong-kg" width="860"></p>
+
 以 Google Sheets 當 CMS、React 加 D3 力導向圖呈現的竹東知識圖譜視覺化網站。
 
 ## 狀態
