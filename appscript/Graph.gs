@@ -13,8 +13,8 @@
  */
 
 const GRAPH_CONFIG = {
-  REPO_OWNER: 'ms-112-scott',
-  REPO_NAME: 'Zhudong',
+  REPO_OWNER: 'scott-lbx',
+  REPO_NAME: 'site-zhudong-kg',
   FILE_PATH: 'src/data/graph.json'
 };
 

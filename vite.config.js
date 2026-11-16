@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: '/Zhudong',
+  base: '/site-zhudong-kg',
 })

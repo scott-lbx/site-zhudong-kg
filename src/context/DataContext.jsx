@@ -5,7 +5,7 @@ const DataContext = createContext();
 export const DataProvider = ({ children }) => {
   const [images, setImages] = useState([]);
   const [loading, setLoading] = useState(true);
-  const GITHUB_JSON_URL = "https://raw.githubusercontent.com/ms-112-scott/Zhudong/master/src/data/images.json";
+  const GITHUB_JSON_URL = "https://raw.githubusercontent.com/scott-lbx/site-zhudong-kg/master/src/data/images.json";
 
   useEffect(() => {
     // cache-busting：加時間戳繞過 raw.githubusercontent CDN cache

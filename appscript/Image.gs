@@ -24,8 +24,8 @@
 
 const SYNC_CONFIG = {
   IMAGE_FOLDER_ID: '1oya0SekgD_GgG7ONzfQ7rd-jcZxoIX66',
-  REPO_OWNER: 'ms-112-scott',
-  REPO_NAME: 'Zhudong',
+  REPO_OWNER: 'scott-lbx',
+  REPO_NAME: 'site-zhudong-kg',
   FILE_PATH: 'src/data/images.json',
   MISSING_SHEET: 'missing_img'
 };
